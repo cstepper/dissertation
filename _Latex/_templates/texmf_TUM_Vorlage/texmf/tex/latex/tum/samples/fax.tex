@@ -1,0 +1,58 @@
+%tex
+%% $Id: fax.tex 78 2009-07-30 19:49:33Z miracle $
+% Bitte verwenden Sie pdflatex.
+\documentclass[NEUTRAL]{tumfax}
+% Optionen f"ur tumfax:
+
+%  Fakult"aten:
+%   NEUTRAL -- ohne Logo und Bezeichnung
+%   AR   Architektur            BV   Bauingenieur- und Vermessungswesen
+%   CH   Chemie                 EI   Elektro- und Informationstechnik
+%   IN   Informatik             MA   Mathematik
+%   MED  Medizin                MW   Maschinenwesen
+%   PH   Physik                 SE   TUM School of Education
+%   SP   Sportwissenschaft      WI   Wirtschaftswissenschaften
+%   WZW  Wissenschaftszentrum Weihenstephan
+
+%   Sprachen (f"ur Silbentrennung): ngerman, english (siehe babel)
+
+% Encoding: latin1, utf8
+% Um auch die Option utf8 zu unterst"utzen findet sich im folgenden
+% Beispieltext kein Umlaut in Direkteingabe. Bei Verwendung einer
+% Encoding-Option k"onnen die entsprechenden Umlaute nat"urlich
+% direkt eingegeben werden
+
+\Institut{Lehrstuhl f\"ur ...}
+\Titel{Prof. Dr.}
+\Vorname{Hans} \Nachname{Mustermann}
+\Strasse{Arcisstra\ss{}e 21}
+\PLZ{80333} \Ort{M\"unchen}
+
+% Bitte Telefonnummern mit '\+' gruppieren, z.B. +49\+89\+289\+12345
+\Telefonnr{+49\+89\+289\+12345}
+\Telefax{+49\+89\+289\+12346}
+\EMail{mustermann@tum.de}
+\HTTP{www.tum.de}
+
+\An{Testadresse}
+\Betreff{Mechanische W\"armetheorie}
+\Faxnr{+49\+89\+289\+77777}
+% Seitenanzahl und Absender werden automatisch gesetzt.
+
+% Falls sie nicht in Muenchen sitzen:
+% \Datum{Freising, \today}
+
+% Faxnachrichten kommen oft ohne Anrede aus:
+% \Anrede{Sehr geehrter ...,}
+\Gruss{Herzliche Gr\"u\ss{}e,}
+% Die Unterschrift ist auf Titel und Name voreingestellt.
+% Falls Sie eine abweichende Unterschrift wuenschen:
+% \Unterschrift{Dein Hans}
+
+\begin{document}
+\begin{tumfax}
+Bitte Abs\"atze durch
+
+eine Leerzeile trennen!
+\end{tumfax}
+\end{document}

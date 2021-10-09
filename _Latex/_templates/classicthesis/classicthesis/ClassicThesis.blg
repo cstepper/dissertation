@@ -1,0 +1,27 @@
+[0] Config.pm:327> INFO - This is Biber 2.2
+[0] Config.pm:330> INFO - Logfile is 'ClassicThesis.blg'
+[30] biber-MSWIN:283> INFO - === 
+[31] Biber.pm:334> INFO - Reading 'ClassicThesis.bcf'
+[121] Biber.pm:677> INFO - Found 0 citekeys in bib section 0
+[121] Biber.pm:674> INFO - Using all citekeys in bib section 1
+[121] Biber.pm:677> INFO - Found 8 citekeys in bib section 0
+[141] Biber.pm:3054> INFO - Processing section 0
+[160] Biber.pm:3193> INFO - Looking for bibtex format file 'Bibliography.bib' for section 0
+[162] bibtex.pm:1072> INFO - Decoding LaTeX character macros into UTF-8
+[165] bibtex.pm:935> INFO - Found BibTeX data source 'Bibliography.bib'
+[246] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[246] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[246] Biber.pm:2931> INFO - Sorting list 'nyt' of type 'entry' with scheme 'nyt' and locale 'en-US'
+[247] Biber.pm:2935> INFO - No sort tailoring available for locale 'en-US'
+[258] Biber.pm:3054> INFO - Processing section 1
+[258] Biber.pm:3193> INFO - Looking for bibtex format file 'AMiede_Publications.bib' for section 1
+[263] bibtex.pm:1072> INFO - Decoding LaTeX character macros into UTF-8
+[264] bibtex.pm:935> INFO - Found BibTeX data source 'AMiede_Publications.bib'
+[293] Utils.pm:147> WARN - ISBN '978-898-8565-52-5' in entry 'Lampe2013a' is invalid - run biber with '--validate_datamodel' for details.
+[361] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[361] UCollate.pm:66> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[361] Biber.pm:2931> INFO - Sorting list 'nyt' of type 'entry' with scheme 'nyt' and locale 'en-US'
+[362] Biber.pm:2935> INFO - No sort tailoring available for locale 'en-US'
+[372] bbl.pm:505> INFO - Writing 'ClassicThesis.bbl' with encoding 'UTF-8'
+[374] bbl.pm:596> INFO - Output to ClassicThesis.bbl
+[375] Biber.pm:107> INFO - WARNINGS: 1

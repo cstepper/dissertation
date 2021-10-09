@@ -1,0 +1,68 @@
+%tex
+%% $Id: brief.tex 78 2009-07-30 19:49:33Z miracle $
+% Bitte verwenden Sie pdflatex.
+\documentclass[NEUTRAL,ngerman]{tumbrief}
+% Optionen f"ur tumbrief:
+
+%  Fakult"aten:
+%   NEUTRAL -- ohne Logo und Bezeichnung
+%   AR   Architektur            BV   Bauingenieur- und Vermessungswesen
+%   CH   Chemie                 EI   Elektro- und Informationstechnik
+%   IN   Informatik             MA   Mathematik
+%   MED  Medizin                MW   Maschinenwesen
+%   PH   Physik                 SE   TUM School of Education
+%   SP   Sportwissenschaft      WI   Wirtschaftswissenschaften
+%   WZW  Wissenschaftszentrum Weihenstephan
+
+%   Sprachen (f"ur Silbentrennung): ngerman, english (siehe babel)
+
+\Institut{Lehrstuhl f\"ur ...}
+\Titel{Prof. Dr.}
+\Vorname{Hans} \Nachname{Mustermann}
+\Strasse{Arcisstra\ss{}e 21}
+\PLZ{80333} \Ort{M\"unchen}
+% Die PLZ im Fenster des Briefumschlags ist mit 80290 auf
+% das Postfach der TU festgelegt.
+
+% Bitte Telefonnummern mit '\+' gruppieren, z.B. +49\+89\+289\+12345
+\Telefonnr{+49\+89\+289\+12345}
+\Telefax{+49\+89\+289\+12346}
+\EMail{mustermann@tum.de}  \HTTP{www.tum.de}
+% Falls sie nicht in München sitzen:
+% \Datum{Freising, \today}
+
+\Adresse{
+Fa. M\"uller Mechanik \\
+Herrn Konrad Pawelke \\
+Teststra\ss{}e 67 \\
+12345 Berlin}
+
+% Optional bitte ausf"ullen:
+% \Konto{10 10 100}  \BLZ{100 100 10}  \Bank{Stadtsparkasse M"unchen}
+% \Swift{BANKDELL}
+% \Iban{DE77 1001 0010 0001 0101 00}
+% \Steuernr{101 101 10}
+% \IhrZeichen{}       \UnserZeichen{}
+% \IhrSchreiben{}     \UnserSchreiben{}
+
+% \Weiteres{Ihr Ansprechpartner\\
+% Dipl.-Ing.\\ \textbf{Vorname Nachname}\\ % Bitte setzen Sie nur den Namen fett.
+% +49\+89\+289\+12345\\
+% nachname@tum.de
+% % Skype, Bitnet, ...
+% }
+
+\Betreff{Betreffzeile}
+\Anrede{Sehr geehrter Herr ...,}
+\Gruss{Herzliche Gr\"u\ss{}e,}
+% Die Unterschrift ist auf Titel und Name voreingestellt.
+% Falls Sie eine abweichende Unterschrift w"unschen:
+% \Unterschrift{Dein Hans}
+
+\begin{document}
+\begin{tumbrief}
+Bitte Abs\"atze durch
+
+eine Leerzeile trennen!
+\end{tumbrief}
+\end{document}

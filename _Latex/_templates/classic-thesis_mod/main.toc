@@ -1,0 +1,11 @@
+\vspace {-\cftbeforepartskip }
+\contentsline {part}{\numberline {i}\spacedlowsmallcaps {First Part of My Thesis}}{17}{part.1}
+\contentsline {chapter}{\numberline {1}\spacedlowsmallcaps {A Chapter}}{19}{chapter.1}
+\contentsline {section}{\numberline {1.1}A Section}{19}{section.1.1}
+\contentsline {section}{\numberline {1.2}Another Section}{19}{section.1.2}
+\contentsline {chapter}{\numberline {2}\spacedlowsmallcaps {Another Chapter}}{21}{chapter.2}
+\contentsline {section}{\numberline {2.1}Yet Another Section}{21}{section.2.1}
+\contentsline {part}{\numberline {ii}\spacedlowsmallcaps {Another Part}}{23}{part.2}
+\contentsline {chapter}{\numberline {3}\spacedlowsmallcaps {Yet Another Chapter}}{25}{chapter.3}
+\contentsline {part}{\numberline {iii}\spacedlowsmallcaps {}}{27}{part.3}
+\contentsline {chapter}{\numberline {4}\spacedlowsmallcaps { Chapter}}{29}{chapter.4}

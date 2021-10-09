@@ -1,0 +1,32 @@
+[0] Config.pm:327> INFO - This is Biber 2.2
+[0] Config.pm:330> INFO - Logfile is 'thesis_steppchr.blg'
+[39] biber-MSWIN:283> INFO - === 
+[40] Biber.pm:334> INFO - Reading 'thesis_steppchr.bcf'
+[138] Biber.pm:677> INFO - Found 0 citekeys in bib section 0
+[138] Biber.pm:674> INFO - Using all citekeys in bib section 1
+[139] Biber.pm:677> INFO - Found 70 citekeys in bib section 0
+[167] Biber.pm:3054> INFO - Processing section 0
+[190] Biber.pm:3193> INFO - Looking for bibtex format file 'Literature/E49_SAPEX-DLB.bib' for section 0
+[280] bibtex.pm:1072> INFO - Decoding LaTeX character macros into UTF-8
+[373] bibtex.pm:935> INFO - Found BibTeX data source 'Literature/E49_SAPEX-DLB.bib'
+[552] Utils.pm:147> WARN - Datamodel: Entry 'LDBV.2015c' (Literature/E49_SAPEX-DLB.bib): Invalid format '26.04.2016' of date field 'urldate' - ignoring
+[553] Utils.pm:147> WARN - Datamodel: Entry 'DigitalGlobe.2013' (Literature/E49_SAPEX-DLB.bib): Invalid format '27.04.2016' of date field 'urldate' - ignoring
+[554] Utils.pm:147> WARN - Datamodel: Entry 'LDBV.2015b' (Literature/E49_SAPEX-DLB.bib): Invalid format '05.11.2015' of date field 'urldate' - ignoring
+[563] Utils.pm:147> WARN - Datamodel: Entry 'Kuhn.2015' (Literature/E49_SAPEX-DLB.bib): Invalid format '06.12.2015' of date field 'urldate' - ignoring
+[566] Utils.pm:147> WARN - BibTeX subsystem: C:\Users\CHRIST~1\AppData\Local\Temp\pyYx4remyY\E49_SAPEX-DLB.bib_2788.utf8, line 3, warning: 45 characters of junk seen at toplevel
+[1194] UCollate.pm:66> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1194] UCollate.pm:66> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1194] Biber.pm:2931> INFO - Sorting list 'nyt' of type 'entry' with scheme 'nyt' and locale 'de-DE'
+[1194] Biber.pm:2935> INFO - No sort tailoring available for locale 'de-DE'
+[1397] Biber.pm:3054> INFO - Processing section 1
+[1397] Biber.pm:3193> INFO - Looking for bibtex format file 'Literature/steppchr_Publications.bib' for section 1
+[1400] bibtex.pm:1072> INFO - Decoding LaTeX character macros into UTF-8
+[1402] bibtex.pm:935> INFO - Found BibTeX data source 'Literature/steppchr_Publications.bib'
+[1410] Utils.pm:147> WARN - BibTeX subsystem: C:\Users\CHRIST~1\AppData\Local\Temp\pyYx4remyY\steppchr_Publications.bib_2788.utf8, line 3, warning: 45 characters of junk seen at toplevel
+[1474] UCollate.pm:66> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1474] UCollate.pm:66> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1474] Biber.pm:2931> INFO - Sorting list 'nyt' of type 'entry' with scheme 'nyt' and locale 'de-DE'
+[1474] Biber.pm:2935> INFO - No sort tailoring available for locale 'de-DE'
+[1484] bbl.pm:505> INFO - Writing 'thesis_steppchr.bbl' with encoding 'UTF-8'
+[1493] bbl.pm:596> INFO - Output to thesis_steppchr.bbl
+[1494] Biber.pm:107> INFO - WARNINGS: 6

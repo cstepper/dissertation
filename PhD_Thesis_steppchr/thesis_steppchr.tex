@@ -1,0 +1,191 @@
+%********************************************************************
+% Define document class
+%********************************************************************
+\RequirePackage{fix-cm} 
+\documentclass[fontsize=10pt,paper=a4,
+			   oneside, %twoside for printing double-sided
+			   openright,titlepage,fleqn,%
+               headinclude,footinclude=true,BCOR=5mm,%
+               numbers=noenddot,cleardoublepage=empty,%
+               captions=tableheading,%
+               %ngerman,
+               british,%
+               ]{scrreprt}
+
+
+               
+%********************************************************************
+% Note: Make all your adjustments in here
+%********************************************************************
+\input{thesis-settings_steppchr}
+
+
+%********************************************************************
+% Bibliographies
+%*******************************************************
+\addbibresource{Literature/E49_SAPEX-DLB.bib}
+\addbibresource[label=ownpubs]{Literature/steppchr_Publications.bib}
+
+\AtEveryBibitem{\ifentrytype{article}{\clearfield{issn}}{}}
+
+\renewbibmacro{in:}{%
+	\ifentrytype{article}{}{\printtext{\bibstring{in}\intitlepunct}}}
+
+\renewbibmacro*{volume+number+eid}{%
+	\printfield{volume}%
+	%  \setunit*{\adddot}% DELETED
+	\setunit*{\addnbthinspace}
+	\printfield{number}%
+	\setunit{\addcomma\space}%
+	\printfield{eid}}
+
+\renewrobustcmd*{\bibinitdelim}{\,}
+
+\DeclareFieldFormat[article, inbook, incollection, thesis, inproceedings]{title}{#1}
+\DeclareFieldFormat[article]{volume}{\textbf{#1}}
+\DeclareFieldFormat[article]{number}{\mkbibparens{#1}\addcolon}
+\DeclareFieldFormat{pages}{#1}
+\DeclareNameAlias{sortname}{last-first}
+\DeclareNameAlias{default}{last-first}
+
+%********************************************************************
+% Hyphenation
+%*******************************************************
+\hyphenation{pho-to-gram-me-try boot-strap Fern-er-kund World-View for-ests dom-i-nat-ed spruce-dom-i-nat-ed 
+Pretzsch Eu-ro-pean Dor-drecht to-pog-ra-phy ap-proach con-cept large-ly re-mote-ly vol-umes
+al-ter-nate three-di-men-sion-al char-ac-ter-i-za-tion se-mi-em-pir-i-cal
+Schwei-zer-bart Fac-tor Pub-lish-er con-cept Kli-ma-an-pas-sung Holz-wirt-schaft-liche
+	}
+
+%********************************************************************
+% Acronyms
+%*******************************************************
+%
+%\DeclareAcronym{ABA}{short = ABA , long = area-based approach}
+%\DeclareAcronym{ALS}{short = ALS, long = airborne laser scanning}
+%\DeclareAcronym{ACS}{short = ACS, long = angle-count sampling}
+%\DeclareAcronym{BaySF}{short = BaySF, long = Bayerische Staatsforsten}
+%\DeclareAcronym{CHM}{short = CHM, long = canopy height model}
+%\DeclareAcronym{DAP}{short = DAP, long = digital aerial photogrammetry}
+%\DeclareAcronym{DSM}{short = DSM, long = digital surface model}
+%\DeclareAcronym{DTM}{short = DTM, long = digital terrain model}
+%\DeclareAcronym{LiDAR}{short = LiDAR, long = Light detection and ranging}
+%\DeclareAcronym{ME}{short = ME, long = mean error}
+%\DeclareAcronym{NFI}{short = NFI, long = national forest inventory}
+%\DeclareAcronym{NVI}{short = NVI, long = Northern Vancouver Island}
+%\DeclareAcronym{oob}{short = oob, long = out-of-bag}
+%\DeclareAcronym{PAI}{short = PAI, long = periodic annual increment}
+%\DeclareAcronym{RF}{short = RF, long = random forest}
+%\DeclareAcronym{RMSE}{short = RMSE, long = root mean squared error}
+%\DeclareAcronym{SGM}{short = SGM, long = semi-global matching}
+%\DeclareAcronym{WV2}{short = WV2, long = WorldView-2}
+
+%\sloppy % für besseren Blocksatz
+
+
+% include only those files for actual compilation
+\includeonly{
+	FrontBackMatter/TUMtitle,
+	FrontBackMatter/Titlepage,
+	FrontBackMatter/Titleback,
+	FrontBackMatter/Dedication,
+	FrontBackMatter/Abstract,
+	FrontBackMatter/Publications,
+	FrontBackMatter/Acknowledgements,
+	Chapters/01_Introduction,
+	Chapters/02_Materials,
+	Chapters/03_Methods,
+	Chapters/04_Results,
+	Chapters/05_Discussion,
+	Chapters/06_Conclusion,
+	%Chapters/AA_Appendix,
+	FrontBackMatter/Bibliography,
+	FrontBackMatter/Index}
+
+
+% ********************************************************************
+% Start of Document
+%*******************************************************
+\begin{document}
+\frenchspacing
+\selectlanguage{british}
+\pagenumbering{roman}
+\pagestyle{plain}
+
+
+
+
+
+%******************************************************************
+% Frontmatter
+%******************************************************************
+\include{FrontBackMatter/TUMtitle}  %den muss ich am Schluss nochmal anpassen
+\include{FrontBackMatter/Titlepage}
+\include{FrontBackMatter/Titleback}
+\cleardoublepage\include{FrontBackMatter/Dedication}
+\cleardoublepage\include{FrontBackMatter/Abstract}
+\cleardoublepage\include{FrontBackMatter/Publications}
+\cleardoublepage\include{FrontBackMatter/Acknowledgements}
+\pagestyle{scrheadings} 
+\cleardoublepage\input{FrontBackMatter/Contents}
+
+
+%******************************************************************
+% Mainmatter
+%******************************************************************
+
+\cleardoublepage
+\pagenumbering{arabic}
+
+  \begin{linenumbers}
+
+%\part{Preliminary notes}
+%
+%\chapter*{TUM PhD regulations}
+%
+%\begin{otherlanguage}{ngerman}
+%\begin{itemize}
+%	\item Bei einer publikationsbasierten Dissertation sind in knapper Fassung das wissenschaftliche Problem, die verwendeten Lösungsansätze, die erzielten Ergebnisse und Schlussfolgerungen sowie die in Bezug stehende Literatur darzustellen. 
+%	\item Die Dissertation muss selbständig angefertigt sein. Sie muss eine Zusammenfassung des Inhalts und ein vollständiges Verzeichnis der benutzten Literatur sowie weiterer Informationsquellen enthalten.
+%	\item Kriterien für die publikationsbasiserte Promotion
+%	\begin{itemize}
+%		\item Einleitungs- und Methodenteil (20 Seiten). Ein themenübergreifender Diskussionsteil mit Reflexion zur bestehenden Literatur. 
+%		\item Kumulative Einbindung von mindestens zwei akzeptierten Erstautorenveröffentlichungen (full paper in einem englischsprachigen, international verbreiteten Publikationsorgan, peer reviewed) 
+%		\item Die eingebundenen Veröffentlichungen müssen federführend vom Doktoranden abgefasst sein. 
+%		\item Eingebunden muss sein: je eine einseitige Zusammenfassung der jeweiligen Veröffentlichungen unter Hervorhebung der individuellen Leistungsbeiträge des Kandidaten. 
+%	\end{itemize}
+%\end{itemize}
+%\end{otherlanguage}
+
+
+\part[Digital Aerial Photogrammetry in Forestry]{\myTitle}
+
+\include{Chapters/01_Introduction}
+\include{Chapters/02_Materials}
+\include{Chapters/03_Methods}
+\include{Chapters/04_Results}
+\include{Chapters/05_Discussion}
+\include{Chapters/06_Conclusion}
+
+\end{linenumbers}
+
+% *****************************************************************
+% Backmatter
+%******************************************************************
+
+\appendix
+%\renewcommand{\thechapter}{\alph{chapter}}
+\cleardoublepage
+\part{Appendix}
+\include{Chapters/AA_Appendix}
+
+
+
+
+\cleardoublepage\include{FrontBackMatter/Bibliography}
+\cleardoublepage\include{FrontBackMatter/Index}
+
+% *****************************************************************
+% End of Document
+%******************************************************************
+\end{document}

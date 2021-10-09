@@ -1,0 +1,117 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\select@language {ngerman}
+\defcounter {refsection}{0}\relax 
+\vspace {-\cftbeforepartskip }
+\defcounter {refsection}{0}\relax 
+\select@language {british}
+\defcounter {refsection}{0}\relax 
+\select@language {ngerman}
+\defcounter {refsection}{0}\relax 
+\select@language {british}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\numberline {i}\spacedlowsmallcaps {Digital Aerial Photogrammetry in Forestry}}{1}{part.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}\spacedlowsmallcaps {Introduction}}{2}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Remote sensing in forestry }{2}{section.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Airphotos, ALS and aerial photogrammetry}{3}{section.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.1}Acquisition principles for aerial photographs}{3}{subsection.1.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.2}Early forestry related applications of aerial photography}{4}{subsection.1.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.3}Height assessment via stereophotogrammetry}{5}{subsection.1.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.4}Airborne laser scanning in forestry}{6}{subsection.1.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.5}Digital images and processing capabilities}{8}{subsection.1.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}Prediction of forest inventory attributes}{9}{section.1.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.4}DAP in forest inventory: current state}{11}{section.1.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.5}Research Aims and Objectives}{11}{section.1.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}\spacedlowsmallcaps {Materials}}{14}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Study Areas}{14}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Field Data}{15}{section.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.1}Bavarian State Forest Enterprise}{15}{subsection.2.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.2}National forest inventory data}{16}{subsection.2.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.3}Municipal Forest of Traunstein}{17}{subsection.2.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2.4}Northern Vancouver Island}{17}{subsection.2.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Remote Sensing Data}{17}{section.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.1}Digital Aerial Photographs}{18}{subsection.2.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.2}World-View 2 Data}{18}{subsection.2.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.3}Airborne Laser Scanning Data}{19}{subsection.2.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}\spacedlowsmallcaps {Methods}}{20}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Digital aerial photogrammetry}{20}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.1}General Considerations on Image Matching}{20}{subsection.3.1.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.2}Semi-global Matching}{21}{subsection.3.1.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Statistical Modelling}{22}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.1}Random Forest for Regression}{22}{subsection.3.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.2}Model Implementation for predicting Forest Inventory Attributes}{24}{subsection.3.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3}Height Change Assessment}{25}{section.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}\spacedlowsmallcaps {Results}}{27}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Overall results of the presented work}{27}{section.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Detailed description of the results}{28}{section.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.1}Stepper et al. \emph {Can. J. For. Res.} (2015)}{28}{subsection.4.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.2}Straub \& Stepper \emph {Photogramm.\tmspace +\medmuskip {.2222em}Fernerkund.\tmspace +\medmuskip {.2222em}Geoinf.} (in press)}{29}{subsection.4.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.3}Stepper et al. \emph {Scand. J. For. Res.} (submitted)}{30}{subsection.4.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.4}White et al. \emph {Forests} (2015)}{31}{subsection.4.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.5}Immitzer et al. \emph {Forest Ecol. Manag.} (2016)}{32}{subsection.4.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.6}Stepper et al. \emph {Forestry} (2015)}{33}{subsection.4.2.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}\spacedlowsmallcaps {Discussion}}{34}{chapter.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}\spacedlowsmallcaps {Conclusion}}{36}{chapter.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\numberline {ii}\spacedlowsmallcaps {Appendix}}{37}{part.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}\spacedlowsmallcaps {Appendix}}{31}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.1}\ignorespaces Stepper et al. \emph {Can. J. For. Res.} (2015)}{32}{section.A.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.2}\ignorespaces Straub \& Stepper \emph {Photogramm.\tmspace +\medmuskip {.2222em}Fernerkund.\tmspace +\medmuskip {.2222em}Geoinf.} (in press)}{53}{section.A.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.3}\ignorespaces Stepper et al. \emph {Scand. J. For. Res.} (submitted)}{69}{section.A.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.4}\ignorespaces White et al. \emph {Forests} (2015)}{111}{section.A.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.5}\ignorespaces Immitzer et al. \emph {For. Ecol. Manage.} (2016)}{140}{section.A.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.6}\ignorespaces Stepper et al. \emph {Forestry} (2015)}{155}{section.A.6}
+\defcounter {refsection}{0}\relax 
+\vspace {\beforebibskip }
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\spacedlowsmallcaps {Bibliography}}{171}{dummy.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\spacedlowsmallcaps {Index}}{176}{section*.42}

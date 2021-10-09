@@ -1,0 +1,74 @@
+%********************************************************************
+% Define document class
+%********************************************************************
+\RequirePackage{fix-cm} % fix some latex issues see: http://texdoc.net/texmf-dist/doc/latex/base/fixltx2e.pdf
+\documentclass[fontsize=10pt,paper=a4,
+							 oneside, %twoside for printing double-sided
+							 openright,titlepage,fleqn,%
+               headinclude,footinclude=true,BCOR=5mm,%
+               numbers=noenddot,cleardoublepage=empty,%
+               captions=tableheading,%
+               ngerman,british,%
+               ]{scrreprt}
+
+
+               
+%********************************************************************
+% Note: Make all your adjustments in here
+%********************************************************************
+\input{thesis-settings}
+
+%********************************************************************
+% Bibliographies
+%*******************************************************
+\addbibresource{Literature/E49_SAPEX-DLB.bib}
+\addbibresource[label=ownpubs]{Literature/steppchr_Publications.bib}
+
+%********************************************************************
+% Hyphenation
+%*******************************************************
+%\hyphenation{put special hyphenation here}
+
+% ********************************************************************
+% Start of Document
+%*******************************************************
+\begin{document}
+\frenchspacing
+\pagenumbering{roman}
+\pagestyle{plain}
+
+%******************************************************************
+% Frontmatter
+%******************************************************************
+\include{FrontBackMatter/TUMtitle}
+\include{FrontBackMatter/Titlepage}
+\include{FrontBackMatter/Titleback}
+\cleardoublepage\include{FrontBackMatter/Dedication}
+\cleardoublepage\include{FrontBackMatter/Abstract}
+\cleardoublepage\include{FrontBackMatter/Publications}
+\cleardoublepage\include{FrontBackMatter/Acknowledgements}
+\pagestyle{scrheadings} 
+\cleardoublepage\input{FrontBackMatter/Contents}
+\cleardoublepage
+
+%******************************************************************
+% Mainmatter
+%******************************************************************
+\pagenumbering{arabic}
+
+\input{Chapters/01_Introduction}
+%\input{Chapters/02_Materials}
+%\input{Chapters/03_Methods}
+%\input{Chapters/04_Results}
+%\input{Chapters/05_Discussion}
+
+% *****************************************************************
+% Backmatter
+%******************************************************************
+\cleardoublepage\input{FrontBackMatter/Bibliography}
+\cleardoublepage\input{FrontBackMatter/Index}
+
+% *****************************************************************
+% End of Document
+%******************************************************************
+\end{document}

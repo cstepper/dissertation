@@ -1,0 +1,1923 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.5 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist{nyt}{nyt}
+    \entry{Aldred.1985}{book}{}
+      \name{author}{2}{}{%
+        {{hash=1e29bf9fa44ee0e8d5e6a2512bad60fe}{Aldred}{A\bibinitperiod}{A.\bibnamedelimi H.}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=612b60570df41ee364fa7a4e256a933b}{Bonnor}{B\bibinitperiod}{G.\bibnamedelimi M.}{G\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Chalk River, Ont.}%
+      }
+      \list{publisher}{1}{%
+        {Petawawa National Forestry Institute, Canadian Forestry Service, Agriculture Canada}%
+      }
+      \strng{namehash}{3c0238c9cb901e13b208d9fcaee33708}
+      \strng{fullhash}{3c0238c9cb901e13b208d9fcaee33708}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelyear}{1985}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9780662138655}
+      \field{series}{{Information report / Petawawa National Forestry Institute}}
+      \field{title}{{Applications of airborne lasers to forest surveys}}
+      \field{volume}{51}
+      \field{year}{1985}
+      \keyw{Forests and forestry;Inventaires forestiers;Laser beams;Lasers en arpentage}
+    \endentry
+    \entry{AFL.2012}{book}{}
+      \name{editor}{1}{}{%
+        {{hash=0563cfc3c5100eacdcd4b58a583bdbac}{{Arbeitsgruppe\bibnamedelimb Forstlicher\bibnamedelimb Luftbildinterpreten}}{A\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Göttingen}%
+      }
+      \list{publisher}{1}{%
+        {Univ.-Verl. Göttingen}%
+      }
+      \strng{namehash}{0563cfc3c5100eacdcd4b58a583bdbac}
+      \strng{fullhash}{0563cfc3c5100eacdcd4b58a583bdbac}
+      \field{sortinit}{A}
+      \field{sortinithash}{b685c7856330eaee22789815b49de9bb}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9783863950552}
+      \field{series}{{Beiträge aus der Nordwestdeutschen Forstlichen Versuchsanstalt}}
+      \field{title}{{Das digitale Luftbild: Ein Praxisleitfaden für Anwender im Forst- und Umweltbereich}}
+      \field{volume}{7}
+      \field{year}{2012}
+    \endentry
+    \entry{Baltsavias.1999c}{article}{}
+      \name{author}{1}{}{%
+        {{hash=38ff3dd96db4d17c8119713f45dccec2}{Baltsavias}{B\bibinitperiod}{E.\bibnamedelimi P.}{E\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{38ff3dd96db4d17c8119713f45dccec2}
+      \strng{fullhash}{38ff3dd96db4d17c8119713f45dccec2}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{1999}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{09242716}
+      \field{journaltitle}{{ISPRS Journal of Photogrammetry and Remote Sensing}}
+      \field{number}{2-3}
+      \field{title}{{Airborne laser scanning: Existing systems and firms and other resources}}
+      \field{volume}{54}
+      \field{year}{1999}
+      \field{pages}{164\bibrangedash 198}
+      \range{pages}{35}
+      \verb{doi}
+      \verb 10.1016/S0924-2716(99)00016-7
+      \endverb
+    \endentry
+    \entry{Bohlin.2012}{article}{}
+      \name{author}{3}{}{%
+        {{hash=5fad26674dbe9ca218068af2d0a34d54}{Bohlin}{B\bibinitperiod}{Jonas}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=f021937dbe845878840b7c376a672822}{Wallerman}{W\bibinitperiod}{Jörgen}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=3c7f2509c85bda3632bd91262a41339e}{Fransson}{F\bibinitperiod}{Johan\bibnamedelima E.S.}{J\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f852ca39213bacd42d7fa7475c062c13}
+      \strng{fullhash}{b4e1bc26d20e0a70d73777fb635a255b}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0282-7581}
+      \field{journaltitle}{{Scandinavian Journal of Forest Research}}
+      \field{number}{7}
+      \field{title}{{Forest variable estimation using photogrammetric matching of digital aerial images in combination with a high-resolution DEM}}
+      \field{volume}{27}
+      \field{year}{2012}
+      \field{pages}{692\bibrangedash 699}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1080/02827581.2012.686625
+      \endverb
+    \endentry
+    \entry{Breiman.2001}{article}{}
+      \name{author}{1}{}{%
+        {{hash=132b7100417675d55d5d4d8b244f7a34}{Breiman}{B\bibinitperiod}{Leo}{L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{132b7100417675d55d5d4d8b244f7a34}
+      \strng{fullhash}{132b7100417675d55d5d4d8b244f7a34}
+      \field{sortinit}{B}
+      \field{sortinithash}{4ecbea03efd0532989d3836d1a048c32}
+      \field{labelyear}{2001}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0885-6125}
+      \field{journaltitle}{{Machine learning}}
+      \field{number}{1}
+      \field{title}{{Random forests}}
+      \field{volume}{45}
+      \field{year}{2001}
+      \field{pages}{5\bibrangedash 32}
+      \range{pages}{28}
+    \endentry
+    \entry{Cohen.1996}{article}{}
+      \name{author}{4}{}{%
+        {{hash=2bca06669acc17b5525f375e44e0eb85}{Cohen}{C\bibinitperiod}{Warren\bibnamedelima B.}{W\bibinitperiod\bibinitdelim B\bibinitperiod}{}{}{}{}}%
+        {{hash=de5c82e7f7a61be79acbe69de83f978c}{Kushla}{K\bibinitperiod}{John\bibnamedelima D.}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=cc54fb4854e665853de18d7d022bcab8}{Ripple}{R\bibinitperiod}{William\bibnamedelima J.}{W\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=e1f00cec46a17b8dde69aafd606eae32}{Garman}{G\bibinitperiod}{Steven\bibnamedelima L.}{S\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{51d8d2d3f4703130787ee85e06966cd6}
+      \strng{fullhash}{0a5c8615f9ae6f8309748643c9fd5d3c}
+      \field{sortinit}{C}
+      \field{sortinithash}{59f25d509f3381b07695554a9f35ecb2}
+      \field{labelyear}{1996}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Aerial photography has been routinely used for several decades by natural resource scientists and managers to map and monitor the condition of forested landscapes. Recently, along with the emergence of concepts in managing forests as ecosystems, has come a significant shift in emphasis from smaller to larger spatial scales and the widespread use of geographic information systems. These developments have precipitated an increasing need for vegetation information derived from other remote sensing imagery, especially digital data acquired from high-elevation aircraft and satellite platforms. This paper introduces fundamental concepts in digital remote sensing and describes numerous applications of the technology. The intent is to provide a balanced, nontechnical view, discussing the shortcomings, successes, and future potential for digital remote sensing of forested ecosystems.}
+      \field{issn}{1432-1009}
+      \field{journaltitle}{{Environmental Management}}
+      \field{number}{3}
+      \field{title}{{An introduction to digital methods in remote sensing of forested ecosystems: Focus on the Pacific Northwest, USA}}
+      \field{volume}{20}
+      \field{year}{1996}
+      \field{pages}{421\bibrangedash 435}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1007/BF01203849
+      \endverb
+    \endentry
+    \entry{DigitalGlobe.2013}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=fd6182fd76b29fb8d350bce476d33315}{{Digital\bibnamedelimb Globe}}{D\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{fd6182fd76b29fb8d350bce476d33315}
+      \strng{fullhash}{fd6182fd76b29fb8d350bce476d33315}
+      \field{sortinit}{D}
+      \field{sortinithash}{78f7c4753a2004675f316a80bdb31742}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{WorldView-2: Data Sheet}}
+      \field{year}{2013}
+      \verb{url}
+      \verb http://global.digitalglobe.com/sites/default/files/DG_WorldView2_DS_PROD.pdf
+      \endverb
+      \warn{\item Datamodel: Entry 'DigitalGlobe.2013' (Literature/E49_SAPEX-DLB.bib): Invalid format '27.04.2016' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{ERDAS.2010}{misc}{}
+      \name{editor}{1}{}{%
+        {{hash=f3d91566fad5e9b1adb26f7327fd073c}{ERDAS}{E\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \strng{namehash}{f3d91566fad5e9b1adb26f7327fd073c}
+      \strng{fullhash}{f3d91566fad5e9b1adb26f7327fd073c}
+      \field{sortinit}{E}
+      \field{sortinithash}{fefc5210ef4721525b2a478df41efcd4}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{title}{{ERDAS Field Guide}}
+      \field{year}{2010}
+    \endentry
+    \entry{Franklin.2001}{book}{}
+      \name{author}{1}{}{%
+        {{hash=f8165cbf8c56681a373bd5d3db50cee4}{Franklin}{F\bibinitperiod}{Steven\bibnamedelima E.}{S\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Boca Raton, Fla.}%
+      }
+      \list{publisher}{1}{%
+        {Lewis Pub}%
+      }
+      \strng{namehash}{f8165cbf8c56681a373bd5d3db50cee4}
+      \strng{fullhash}{f8165cbf8c56681a373bd5d3db50cee4}
+      \field{sortinit}{F}
+      \field{sortinithash}{c6a7d9913bbd7b20ea954441c0460b78}
+      \field{labelyear}{2001}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781420032857}
+      \field{title}{{Remote sensing for sustainable forest management}}
+      \field{year}{2001}
+      \keyw{forest management;Foresterie durable;Forêts;Sustainable forestry;TECHNOLOGY {\&} ENGINEERING}
+    \endentry
+    \entry{Gehrke.2010}{inproceedings}{}
+      \name{author}{5}{}{%
+        {{hash=ffa2082d1839493291c1616262aee4be}{Gehrke}{G\bibinitperiod}{Stephan}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=b949852f31842fa64ae578c6474b2d3a}{Morin}{M\bibinitperiod}{Kristian}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=d9b572e8a4087ac57904e2cf2e5071f6}{Downey}{D\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=67a006e4b28265a1038de88985a8cd52}{Boehrer}{B\bibinitperiod}{Nicolas}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=569d4c062eb4bbd99244081aab5fe4cc}{Fuchs}{F\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{38db8f53988cea195b83ec1fcca62b0a}
+      \strng{fullhash}{37b6351eb2a7ff2080d9b2861afa9cb6}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Proceedings of the 2010 Canadian Geomatics Conference and Symposium of Commission I}}
+      \field{title}{{Semi-global matching: An alternative to LIDAR for DSM generation}}
+      \field{year}{2010}
+    \endentry
+    \entry{Gruen.2012}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3f04d73a2ec06d4936200b011dffa539}{Gruen}{G\bibinitperiod}{Armin}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3f04d73a2ec06d4936200b011dffa539}
+      \strng{fullhash}{3f04d73a2ec06d4936200b011dffa539}
+      \field{sortinit}{G}
+      \field{sortinithash}{1c854ef9177a91bf894e66485bdbd3ed}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1477-9730}
+      \field{journaltitle}{{The Photogrammetric Record}}
+      \field{number}{137}
+      \field{title}{{Development and Status of Image Matching in Photogrammetry}}
+      \field{volume}{27}
+      \field{year}{2012}
+      \field{pages}{36\bibrangedash 57}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1111/j.1477-9730.2011.00671.x
+      \endverb
+    \endentry
+    \entry{Haala.2012}{article}{}
+      \name{author}{2}{}{%
+        {{hash=82fefe5e8d74ab5f9a4d65e417f0ebc9}{Haala}{H\bibinitperiod}{Norbert}{N\bibinitperiod}{}{}{}{}}%
+        {{hash=f21cd3ffc8b78af1c02353a63c4d8914}{Rothermel}{R\bibinitperiod}{Mathias}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3d98ea420a1b7d47971f49503f780565}
+      \strng{fullhash}{3d98ea420a1b7d47971f49503f780565}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{Photogrammetrie, Fernerkundung, Geoinformation (PFG)}}
+      \field{number}{4}
+      \field{title}{{Dense Multi-Stereo Matching for High Quality Digital Elevation Models}}
+      \field{volume}{2012}
+      \field{year}{2012}
+      \field{pages}{331\bibrangedash 343}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1127/1432-8364/2012/0121
+      \endverb
+    \endentry
+    \entry{Hastie.2009}{book}{}
+      \name{author}{3}{}{%
+        {{hash=0cb8fe4210baa81c4b0e67913b4d2768}{Hastie}{H\bibinitperiod}{Trevor}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=88eea600247d798f8b2ce0b2dc614492}{Tibshirani}{T\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=737f06ec463b4ce942a547e57d0bf857}{Friedman}{F\bibinitperiod}{J.\bibnamedelimi H.}{J\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{45eb7d473651da447f1d77717e7f8650}
+      \strng{fullhash}{bba514d0518c86206adff23de11f4bd8}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{2009}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{{\dq}During the past decade there has been an explosion in computation and information technology. With it have come vast amounts of data in a variety of fields such as medicine, biology, finance, and marketing. The challenge of understanding these data has led to the development of new tools in the field of statistics, and spawned new areas such as data mining, machine learning, and bioinformatics. Many of these tools have common underpinnings but are often expressed with different terminology. This book describes the important ideas in these areas in a common conceptual framework. While the approach is statistical, the emphasis is on concepts rather than mathematics. Many examples are given, with a liberal use of color graphics.{\dq}--Jacket.}
+      \field{edition}{2nd ed}
+      \field{isbn}{9780387848570}
+      \field{series}{{Springer series in statistics}}
+      \field{title}{{The elements of statistical learning: Data mining, inference, and prediction}}
+      \field{year}{2009}
+    \endentry
+    \entry{Hildebrandt.1996}{book}{}
+      \name{author}{1}{}{%
+        {{hash=68b19cbac4a673b5ef7c3384c73c6f06}{Hildebrandt}{H\bibinitperiod}{G.}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Heidelberg}%
+      }
+      \list{publisher}{1}{%
+        {Wichmann}%
+      }
+      \strng{namehash}{68b19cbac4a673b5ef7c3384c73c6f06}
+      \strng{fullhash}{68b19cbac4a673b5ef7c3384c73c6f06}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{1996}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1. Aufl.}
+      \field{isbn}{3879072388}
+      \field{title}{{Fernerkundung und Luftbildmessung: für Forstwirtschaft, Vegetationskartierung und Landschaftsökologie}}
+      \field{year}{1996}
+    \endentry
+    \entry{Hildebrandt.2010}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d149352bc22aae17aa3e559d08d9e66e}{Hildebrandt}{H\bibinitperiod}{Gerd}{G\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d149352bc22aae17aa3e559d08d9e66e}
+      \strng{fullhash}{d149352bc22aae17aa3e559d08d9e66e}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{14328364}
+      \field{journaltitle}{{Photogrammetrie - Fernerkundung - Geoinformation}}
+      \field{number}{4}
+      \field{title}{{The Beginnings of Aerial Photogrammetry and Interpretation in German Forestry after 1945}}
+      \field{volume}{2010}
+      \field{year}{2010}
+      \field{pages}{235\bibrangedash 242}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1127/1432-8364/2010/0051
+      \endverb
+    \endentry
+    \entry{Hirschmuller.2005}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=8b67d698a8e7ec5a306ef42c307402ee}{Hirschmüller}{H\bibinitperiod}{Heiko}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{3}{}{%
+        {{hash=58e4a9845eac42a4b0e5205cf0970fc0}{Schmid}{S\bibinitperiod}{Cordelia}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=d00582fbd862d4b2cc3cbaab733439b5}{Soatto}{S\bibinitperiod}{Stefano}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=5c51dbff8f01c3b5f905da5777a9f5c8}{Tomasi}{T\bibinitperiod}{Carlo}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Los Alomitos, CA, USA}%
+      }
+      \list{publisher}{1}{%
+        {IEEE Computer Society}%
+      }
+      \strng{namehash}{8b67d698a8e7ec5a306ef42c307402ee}
+      \strng{fullhash}{8b67d698a8e7ec5a306ef42c307402ee}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{2005}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{CVPR 2005}}
+      \field{title}{{Accurate and Efficient Stereo Processing by Semi-Global Matching and Mutual Information}}
+      \field{volume}{2}
+      \field{year}{2005}
+      \field{pages}{807\bibrangedash 814}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1109/CVPR.2005.56
+      \endverb
+    \endentry
+    \entry{Hirschmuller.2008}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8b67d698a8e7ec5a306ef42c307402ee}{Hirschmüller}{H\bibinitperiod}{Heiko}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8b67d698a8e7ec5a306ef42c307402ee}
+      \strng{fullhash}{8b67d698a8e7ec5a306ef42c307402ee}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{2008}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{01628828}
+      \field{journaltitle}{{IEEE Transactions on Pattern Analysis and Machine Intelligence}}
+      \field{number}{2}
+      \field{title}{{Stereo Processing by Semiglobal Matching and Mutual Information}}
+      \field{volume}{30}
+      \field{year}{2008}
+      \field{pages}{328\bibrangedash 341}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1109/TPAMI.2007.1166
+      \endverb
+    \endentry
+    \entry{Hirschmuller.2011}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{hash=8b67d698a8e7ec5a306ef42c307402ee}{Hirschmüller}{H\bibinitperiod}{Heiko}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=9cafcd418ac43d00ff091340714d0032}{Fritsch}{F\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8b67d698a8e7ec5a306ef42c307402ee}
+      \strng{fullhash}{8b67d698a8e7ec5a306ef42c307402ee}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{2011}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Proceedings of the 53rd Photogrammetric Week}}
+      \field{title}{{Semi-Global Matching - Motivation, Developments and Applications}}
+      \field{year}{2011}
+      \field{pages}{5\bibrangedash 11}
+      \range{pages}{7}
+    \endentry
+    \entry{Holopainen.2015}{article}{}
+      \name{author}{7}{}{%
+        {{hash=68c34b73dd92d97596f804004c011e1b}{Holopainen}{H\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=2c1bd12c6c0dc7a9c61f210fb3999d6a}{Vastaranta}{V\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=59d268c84e3404132cbea0429fc82fb3}{Karjalainen}{K\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=2c019c2a1424783042090dfecf735e35}{Karila}{K\bibinitperiod}{K.}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=7ad85998eaf312cd39151bfff1b93ba4}{Kaasalainen}{K\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=dc6d99c3aed14562b4d15049d0c35e34}{Honkavaara}{H\bibinitperiod}{E.}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=fa6a3beab7b8ad2689d5206f4c71ee0e}{Hyyppä}{H\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{eed4bdd4936e62ab9bbc6bf74b1470d7}
+      \strng{fullhash}{f98ba674ee57c62f16b1eb19644cd797}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2194-9050}
+      \field{journaltitle}{{ISPRS Annals of Photogrammetry, Remote Sensing and Spatial Information Sciences}}
+      \field{title}{{Forest Inventory Attribute Estimation using Airborne Laser Scanning, Aerial Stereo Imagery, Radargrammetry and Interferometry - Finnish Experiences of the 3d Techniques}}
+      \field{volume}{II-3/W4}
+      \field{year}{2015}
+      \field{pages}{63\bibrangedash 69}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.5194/isprsannals-II-3-W4-63-2015
+      \endverb
+    \endentry
+    \entry{Hudak.2006}{article}{}
+      \name{author}{7}{}{%
+        {{hash=d4483ddd0c8a183a5c3a69feda7dad8b}{Hudak}{H\bibinitperiod}{Andrew\bibnamedelima T.}{A\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+        {{hash=bbfddb84d8eb2575479231f9e09eed77}{Crookston}{C\bibinitperiod}{Nicholas\bibnamedelima L.}{N\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+        {{hash=ea937d56613cc705be5f5d4510f2f30b}{Evans}{E\bibinitperiod}{Jeffrey\bibnamedelima S.}{J\bibinitperiod\bibinitdelim S\bibinitperiod}{}{}{}{}}%
+        {{hash=92c80325b2be6d3f5ae7d81bd79a2c61}{Falkowski}{F\bibinitperiod}{Michael\bibnamedelima J.}{M\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=5d8d2636a884fc2039521285ab5a3471}{Smith}{S\bibinitperiod}{Alistair\bibnamedelima M.S}{A\bibinitperiod\bibinitdelim M\bibinitperiod}{}{}{}{}}%
+        {{hash=4bce81972d1c4ea331d24fc22de60df6}{Gessler}{G\bibinitperiod}{Paul\bibnamedelima E.}{P\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=23c6c036a59816f55ffe5b9d3f909b6a}{Morgan}{M\bibinitperiod}{Penelope}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f2bc8dc0f1f73833c56c83aa5eb63135}
+      \strng{fullhash}{cfe9e9f2be3ca2850da0bbac001bc98e}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{2006}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0703-8992}
+      \field{journaltitle}{{Canadian Journal of Remote Sensing}}
+      \field{number}{2}
+      \field{title}{{Regression modeling and mapping of coniferous forest basal area and tree density from discrete-return lidar and multispectral satellite data}}
+      \field{volume}{32}
+      \field{year}{2006}
+      \field{pages}{126\bibrangedash 138}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.5589/m06-007
+      \endverb
+    \endentry
+    \entry{Hugershoff.1933}{article}{}
+      \name{author}{1}{}{%
+        {{hash=8bb4a88586de75b2e26484682b8e687e}{Hugershoff}{H\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8bb4a88586de75b2e26484682b8e687e}
+      \strng{fullhash}{8bb4a88586de75b2e26484682b8e687e}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{1933}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{Tharandter Forstliches Jahrbuch}}
+      \field{title}{{Die photogrammetrische Vorratsermittlung}}
+      \field{volume}{84}
+      \field{year}{1933}
+      \field{pages}{159\bibrangedash 166}
+      \range{pages}{8}
+    \endentry
+    \entry{Hyyppa.2008}{article}{}
+      \name{author}{6}{}{%
+        {{hash=fa6a3beab7b8ad2689d5206f4c71ee0e}{Hyyppä}{H\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=427959d5252818841a42450283595d63}{Hyyppä}{H\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=b2649418af68b4b07f37df94c4d0df91}{Leckie}{L\bibinitperiod}{D.}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=61eb909aede6e52712d20018f4b34a17}{Gougeon}{G\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=a89cf32c2fc79b3c61ee7213fb32f0cf}{Yu}{Y\bibinitperiod}{X.}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=0120e09ee909d3fc24510f14c0411106}{Maltamo}{M\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{f9af219ae45dacf920fcf5b2e8762d2e}
+      \strng{fullhash}{ba00c1cce256c3b7a79f7833c4512755}
+      \field{sortinit}{H}
+      \field{sortinithash}{82012198d5dfa657b8c4a168793268a6}
+      \field{labelyear}{2008}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0143-1161}
+      \field{journaltitle}{{International Journal of Remote Sensing}}
+      \field{number}{5}
+      \field{title}{{Review of methods of small--footprint airborne laser scanning for extracting forest inventory data in boreal forests}}
+      \field{volume}{29}
+      \field{year}{2008}
+      \field{pages}{1339\bibrangedash 1366}
+      \range{pages}{28}
+      \verb{doi}
+      \verb 10.1080/01431160701736489
+      \endverb
+    \endentry
+    \entry{Immitzer.2016}{article}{}
+      \name{author}{5}{}{%
+        {{hash=d0d08757c2a8067bd13c1823381087ef}{Immitzer}{I\bibinitperiod}{Markus}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=397bdcdd0a6d497fd12207228b8fc549}{Stepper}{S\bibinitperiod}{Christoph}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=beb91874b5d6ce57d740309f9052d834}{Böck}{B\bibinitperiod}{Sebastian}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=374cb28496615be6a5894df9fceb9893}{Straub}{S\bibinitperiod}{Christoph}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=eccf2e345140c9a8cf201c271eae3453}{Atzberger}{A\bibinitperiod}{Clement}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{164792cb2f8e89572b7300b97ea398e4}
+      \strng{fullhash}{80501e3f30920e92a3f542fcf0110b01}
+      \field{sortinit}{I}
+      \field{sortinithash}{25e99d37ba90f7c4fb20baf4e310faf3}
+      \field{labelyear}{2016}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0378-1127}
+      \field{journaltitle}{{Forest Ecology and Management}}
+      \field{title}{{Use of WorldView-2 stereo imagery and National Forest Inventory data for wall-to-wall mapping of growing stock}}
+      \field{volume}{359}
+      \field{year}{2016}
+      \field{pages}{232\bibrangedash 246}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1016/j.foreco.2015.10.018
+      \endverb
+    \endentry
+    \entry{Jarnstedt.2012}{article}{}
+      \name{author}{6}{}{%
+        {{hash=88838f5edd42f03892457372500ee7d4}{Järnstedt}{J\bibinitperiod}{J.}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=7de7e3f2ae03cea556220907af70cfb8}{Pekkarinen}{P\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=180bca56b81a48e2e1dc71b4e458e539}{Tuominen}{T\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=f0bd635212be23f4ef984c82eacca8d5}{Ginzler}{G\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=68c34b73dd92d97596f804004c011e1b}{Holopainen}{H\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=d76be96b1623b2b36f06ebb7dce02830}{Viitala}{V\bibinitperiod}{R.}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{256294c175c884217ceafb499e8f3951}
+      \strng{fullhash}{cd0efd681ae831ff7a26b07e7d004740}
+      \field{sortinit}{J}
+      \field{sortinithash}{ec3950a647c092421b9fcca6d819504a}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{09242716}
+      \field{journaltitle}{{ISPRS Journal of Photogrammetry and Remote Sensing}}
+      \field{title}{{Forest variable estimation using a high-resolution digital surface model}}
+      \field{volume}{74}
+      \field{year}{2012}
+      \field{pages}{78\bibrangedash 84}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/j.isprsjprs.2012.08.006
+      \endverb
+    \endentry
+    \entry{Kuhn.2015}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=3305789acf03200ed22f154007d4fab9}{Kuhn}{K\bibinitperiod}{Max}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{3305789acf03200ed22f154007d4fab9}
+      \strng{fullhash}{3305789acf03200ed22f154007d4fab9}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{caret: Classification and Regression Training}}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://CRAN.R-project.org/package=caret
+      \endverb
+      \warn{\item Datamodel: Entry 'Kuhn.2015' (Literature/E49_SAPEX-DLB.bib): Invalid format '06.12.2015' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{Kuhn.2013b}{book}{}
+      \name{author}{2}{}{%
+        {{hash=3305789acf03200ed22f154007d4fab9}{Kuhn}{K\bibinitperiod}{Max}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=8506bc0799a0f764e71f60c7bb5b7fd9}{Johnson}{J\bibinitperiod}{Kjell}{K\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{87ef0f02906001a3dbac62a9064e9c1e}
+      \strng{fullhash}{87ef0f02906001a3dbac62a9064e9c1e}
+      \field{sortinit}{K}
+      \field{sortinithash}{a7d5b3aec5a0890aae7baf85a209abfc}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781461468486}
+      \field{title}{{Applied Predictive Modeling}}
+      \field{year}{2013}
+      \verb{doi}
+      \verb 10.1007/978-1-4614-6849-3
+      \endverb
+    \endentry
+    \entry{LDBV.2015b}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=27a896d463e04ae852f8b43f564dc7f3}{LDBV}{L\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=3d57d5633c46ed31494fe1e1ddebf242}{{Landesamt\bibnamedelimb für\bibnamedelimb Digitalisierung,\bibnamedelimb Breitband\bibnamedelimb und\bibnamedelimb Vermessung\bibnamedelimb Bayern}}{L\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {München}%
+      }
+      \strng{namehash}{27a896d463e04ae852f8b43f564dc7f3}
+      \strng{fullhash}{27a896d463e04ae852f8b43f564dc7f3}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{extrayear}{1}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Digitale Geländemodelle (DGM): Product information leaflet}}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://vermessung.bayern.de/file/pdf/1614/download_faltblatt-dgm09.pdf
+      \endverb
+      \warn{\item Datamodel: Entry 'LDBV.2015b' (Literature/E49_SAPEX-DLB.bib): Invalid format '05.11.2015' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{LDBV.2015c}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=27a896d463e04ae852f8b43f564dc7f3}{LDBV}{L\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=3d57d5633c46ed31494fe1e1ddebf242}{{Landesamt\bibnamedelimb für\bibnamedelimb Digitalisierung,\bibnamedelimb Breitband\bibnamedelimb und\bibnamedelimb Vermessung\bibnamedelimb Bayern}}{L\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {München}%
+      }
+      \strng{namehash}{27a896d463e04ae852f8b43f564dc7f3}
+      \strng{fullhash}{27a896d463e04ae852f8b43f564dc7f3}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{extrayear}{2}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Luftbildprodukte: Product information leaflet}}
+      \field{year}{2015}
+      \verb{url}
+      \verb http://vermessung.bayern.de/file/pdf/1039/download_faltblatt-luftbilder08.pdf
+      \endverb
+      \warn{\item Datamodel: Entry 'LDBV.2015c' (Literature/E49_SAPEX-DLB.bib): Invalid format '26.04.2016' of date field 'urldate' - ignoring}
+    \endentry
+    \entry{Leberl.2010}{article}{}
+      \name{author}{7}{}{%
+        {{hash=7b2e081f4fc869cc0763529bc7427bab}{Leberl}{L\bibinitperiod}{F.}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=9fc9b02a89f5829dd5562871381cd2e8}{Irschara}{I\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=e69dd2e6bf85a60d68ba8b25c4ec658d}{Pock}{P\bibinitperiod}{T.}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=6b72ced50ae462a814a8c97b2fcfe1c9}{Meixner}{M\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=4690472c120c90e7e08bbe3e3f8a26ba}{Gruber}{G\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=c23e95aa4a822d90b19287cdba157c6b}{Scholz}{S\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=9700d60208fef9d6926ced96af3c2cbb}{Wiechert}{W\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a40bdc6ae7b3664fbd343880c7d85528}
+      \strng{fullhash}{80f352dbbdc2e9826c43cfd0b9873191}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0099-1112}
+      \field{journaltitle}{{Photogrammetric engineering and remote sensing}}
+      \field{number}{10}
+      \field{title}{{Point Clouds: Lidar versus 3D Vision}}
+      \field{volume}{76}
+      \field{year}{2010}
+      \field{pages}{1123\bibrangedash 1134}
+      \range{pages}{12}
+    \endentry
+    \entry{Lemmens.2011b}{incollection}{}
+      \name{author}{1}{}{%
+        {{hash=fec53d21127b90c73fbdc78c6f668968}{Lemmens}{L\bibinitperiod}{Mathias}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=fec53d21127b90c73fbdc78c6f668968}{Lemmens}{L\bibinitperiod}{Mathias}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Dordrecht}%
+      }
+      \list{publisher}{1}{%
+        {Springer Netherlands}%
+      }
+      \strng{namehash}{fec53d21127b90c73fbdc78c6f668968}
+      \strng{fullhash}{fec53d21127b90c73fbdc78c6f668968}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelyear}{2011}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{Geo-information}}
+      \field{isbn}{9789400716667}
+      \field{title}{{Photogrammetry: Geometric Data from Imagery}}
+      \field{year}{2011}
+      \field{pages}{123\bibrangedash 151}
+      \range{pages}{29}
+      \verb{doi}
+      \verb 10.1007/978-94-007-1667-4{_}7
+      \endverb
+    \endentry
+    \entry{Li.2008}{article}{}
+      \name{author}{3}{}{%
+        {{hash=903807d3bf17e8b5e30dff96dbc994b1}{Li}{L\bibinitperiod}{Yuzhen}{Y\bibinitperiod}{}{}{}{}}%
+        {{hash=a6b15668909cf09bb917544bfa9ec723}{Andersen}{A\bibinitperiod}{Hans-Erik}{H\bibinithyphendelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=aee26d366d25ff702a3fbe9ba4364cc7}{McGaughey}{M\bibinitperiod}{Robert}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{57096040d60e807d53269ba2ab0481b4}
+      \strng{fullhash}{bf43517188f675e9ea6389b4775131db}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelyear}{2008}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0885-6095}
+      \field{journaltitle}{{Western journal of applied forestry}}
+      \field{number}{4}
+      \field{title}{{A comparison of statistical methods for estimating forest biomass from light detection and ranging data}}
+      \field{volume}{23}
+      \field{year}{2008}
+      \field{pages}{223\bibrangedash 231}
+      \range{pages}{9}
+    \endentry
+    \entry{Liaw.2002}{article}{}
+      \name{author}{2}{}{%
+        {{hash=ee295e0da4839bf52318f9d0907272db}{Liaw}{L\bibinitperiod}{Andy}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=8151155ab10b2d08911b41d5b729cde4}{Wiener}{W\bibinitperiod}{Matthew}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{292f3e5ab9d93dd13db63ac00fea9668}
+      \strng{fullhash}{292f3e5ab9d93dd13db63ac00fea9668}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelyear}{2002}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{R news}}
+      \field{number}{3}
+      \field{title}{{Classification and Regression by randomForest}}
+      \field{volume}{2}
+      \field{year}{2002}
+      \field{pages}{18\bibrangedash 22}
+      \range{pages}{5}
+    \endentry
+    \entry{Lim.2003}{article}{}
+      \name{author}{5}{}{%
+        {{hash=6bc9d7a87cbd50e7ad44b4dfb5e051c6}{Lim}{L\bibinitperiod}{Kevin}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=01e9bb27813e4797569d6eaacd3876db}{Treitz}{T\bibinitperiod}{Paul}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=12572c7e322317af66ad77cb870cf100}{Wulder}{W\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=c8cc9c468d042a88b431bcc698ad1a5f}{St-Onge}{S\bibinithyphendelim O\bibinitperiod}{Benoît}{B\bibinitperiod}{}{}{}{}}%
+        {{hash=f8379c828c5a16b79da745536b5cd2f1}{Flood}{F\bibinitperiod}{Martin}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a7b1da1cc977e2f86a1f9c7283a40a90}
+      \strng{fullhash}{fba248b4506610d8a79ae57264fccc3e}
+      \field{sortinit}{L}
+      \field{sortinithash}{872351f18d0f736066eda0bf18bfa4f7}
+      \field{labelyear}{2003}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{14770296}
+      \field{journaltitle}{{Progress in Physical Geography}}
+      \field{number}{1}
+      \field{title}{{LiDAR remote sensing of forest structure}}
+      \field{volume}{27}
+      \field{year}{2003}
+      \field{pages}{88\bibrangedash 106}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1191/0309133303pp360ra
+      \endverb
+    \endentry
+    \entry{Maclean.1986}{article}{}
+      \name{author}{2}{}{%
+        {{hash=6211a636fbb3fbcb2c34b6b3c75065c1}{Maclean}{M\bibinitperiod}{Gordon\bibnamedelima A.}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=db2a184083cf4c3a01b3a871e3807337}{Krabill}{K\bibinitperiod}{William}{W\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a3fc0e644f09ffa4ff38f6619e81abea}
+      \strng{fullhash}{a3fc0e644f09ffa4ff38f6619e81abea}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelyear}{1986}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A preliminary study to determine the utility of an airborne laser as a tool for use by forest managers to estimate gross-merchantable timber volume was conducted near the National Aeronautics and Space Administration (NASA) Goddard Space Flight Center, Wallops Flight Facility utilizing the NASA Airborne Oceanographic Lidar (AOL) system. Measured timber volume was regressed against the cross-sectional area of an AOL-generated profile of forest at the same location. The AOL profile area was found to be a very significant variable in the estimation of gross-merchantable timber volume. Significant improvements were obtained when the data were stratified by species. The overall R-squared value obtained was 0.921 with the regression significant at the one percent level.}
+      \field{issn}{0703-8992}
+      \field{journaltitle}{{Canadian Journal of Remote Sensing}}
+      \field{number}{1}
+      \field{title}{{Gross-Merchantable Timber Volume Estimation Using an Airborne Lidar System}}
+      \field{volume}{12}
+      \field{year}{1986}
+      \field{pages}{7\bibrangedash 18}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1080/07038992.1986.10855092
+      \endverb
+    \endentry
+    \entry{Maclean.1984}{article}{}
+      \name{author}{2}{}{%
+        {{hash=6211a636fbb3fbcb2c34b6b3c75065c1}{Maclean}{M\bibinitperiod}{Gordon\bibnamedelima A.}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=6bfb524e19a3084928d9c79c8d2c588c}{Martin}{M\bibinitperiod}{George\bibnamedelima L.}{G\bibinitperiod\bibinitdelim L\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{606825c67dde057554382926ff1a2865}
+      \strng{fullhash}{606825c67dde057554382926ff1a2865}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelyear}{1984}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0045-5067}
+      \field{journaltitle}{{Canadian Journal of Forest Research}}
+      \field{number}{6}
+      \field{title}{{Merchantable timber volume estimation using cross-sectional photogrammetric and densitometric methods}}
+      \field{volume}{14}
+      \field{year}{1984}
+      \field{pages}{803\bibrangedash 810}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1139/x84-142
+      \endverb
+    \endentry
+    \entry{Magnussen.1998}{article}{}
+      \name{author}{2}{}{%
+        {{hash=6eeb9adef46a476e7a5b2eba4159593d}{Magnussen}{M\bibinitperiod}{S.}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=888c2115a9ccf6f79b93cc875ac033a6}{Boudewyn}{B\bibinitperiod}{P.}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{ac176986f612b3f9e1320988cc5b9066}
+      \strng{fullhash}{ac176986f612b3f9e1320988cc5b9066}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelyear}{1998}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0045-5067}
+      \field{journaltitle}{{Canadian Journal of Forest Research}}
+      \field{number}{7}
+      \field{title}{{Derivations of stand heights from airborne laser scanner data with canopy-based quantile estimators}}
+      \field{volume}{28}
+      \field{year}{1998}
+      \field{pages}{1016\bibrangedash 1031}
+      \range{pages}{16}
+    \endentry
+    \entry{Maltamo.2014b}{book}{}
+      \name{editor}{3}{}{%
+        {{hash=a0c8e2542311764bccfe4c86fef69151}{Maltamo}{M\bibinitperiod}{Matti}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=cb40b5f3fb316653ba81490a8cd0592d}{N{æ}sset}{N\bibinitperiod}{Erik}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=5c3fb32bb01d0d414634b74fe0243391}{Vauhkonen}{V\bibinitperiod}{Jari}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Dordrecht}%
+      }
+      \list{publisher}{1}{%
+        {Springer Netherlands}%
+      }
+      \strng{namehash}{a6b58e489211715de648ab872faa1e52}
+      \strng{fullhash}{82031fb535e636f21d053fd1db24166d}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{editor}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9789401786621}
+      \field{series}{{Managing forest ecosystems}}
+      \field{title}{{Forestry Applications of Airborne Laser Scanning: Concepts and Case Studies}}
+      \field{volume}{27}
+      \field{year}{2014}
+      \verb{doi}
+      \verb 10.1007/978-94-017-8663-8
+      \endverb
+    \endentry
+    \entry{Means.2000}{article}{}
+      \name{author}{6}{}{%
+        {{hash=69b7a77fe666e4ca7cad993e02fadbdb}{Means}{M\bibinitperiod}{Joseph\bibnamedelima E.}{J\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=90a35c4e3fbd08630bc58fc47ff9dc46}{Acker}{A\bibinitperiod}{Steven\bibnamedelima A.}{S\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=eb58398ddf19ac9dc84dc9587d251b80}{Fitt}{F\bibinitperiod}{Brandon\bibnamedelima J.}{B\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+        {{hash=0bef3c9cc3cabb638631aa2d0532223a}{Renslow}{R\bibinitperiod}{Michael}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=2fee29ac4c4445f5ff95d049dd5cc72d}{Emerson}{E\bibinitperiod}{Lisa}{L\bibinitperiod}{}{}{}{}}%
+        {{hash=6b3e476cb0a875af6359d0516c943984}{Hendrix}{H\bibinitperiod}{Chad\bibnamedelima J.}{C\bibinitperiod\bibinitdelim J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{add30775f1edc2a1c4002ca28d2cea1b}
+      \strng{fullhash}{86d1bbe361962b026b4bee999d17e770}
+      \field{sortinit}{M}
+      \field{sortinithash}{2684bec41e9697b92699b46491061da2}
+      \field{labelyear}{2000}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0099-1112}
+      \field{journaltitle}{{Photogrammetric engineering and remote sensing}}
+      \field{number}{11}
+      \field{title}{{Predicting forest stand characteristics with airborne scanning lidar}}
+      \field{volume}{66}
+      \field{year}{2000}
+      \field{pages}{1367\bibrangedash 1372}
+      \range{pages}{6}
+    \endentry
+    \entry{Nsset.1997}{article}{}
+      \name{author}{1}{}{%
+        {{hash=cb40b5f3fb316653ba81490a8cd0592d}{N{æ}sset}{N\bibinitperiod}{Erik}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{cb40b5f3fb316653ba81490a8cd0592d}
+      \strng{fullhash}{cb40b5f3fb316653ba81490a8cd0592d}
+      \field{sortinit}{N}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \field{extrayear}{1}
+      \field{labelyear}{1997}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{09242716}
+      \field{journaltitle}{{ISPRS Journal of Photogrammetry and Remote Sensing}}
+      \field{number}{2}
+      \field{title}{{Determination of mean tree height of forest stands using airborne laser scanner data}}
+      \field{volume}{52}
+      \field{year}{1997}
+      \field{pages}{49\bibrangedash 56}
+      \range{pages}{8}
+    \endentry
+    \entry{Naesset.1997}{article}{}
+      \name{author}{1}{}{%
+        {{hash=cb40b5f3fb316653ba81490a8cd0592d}{N{æ}sset}{N\bibinitperiod}{Erik}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{cb40b5f3fb316653ba81490a8cd0592d}
+      \strng{fullhash}{cb40b5f3fb316653ba81490a8cd0592d}
+      \field{sortinit}{N}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \field{extrayear}{2}
+      \field{labelyear}{1997}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00344257}
+      \field{journaltitle}{{Remote Sensing of Environment}}
+      \field{number}{2}
+      \field{title}{{Estimating timber volume of forest stands using airborne laser scanner data}}
+      \field{volume}{61}
+      \field{year}{1997}
+      \field{pages}{246\bibrangedash 253}
+      \range{pages}{8}
+    \endentry
+    \entry{Nsset.2002}{article}{}
+      \name{author}{1}{}{%
+        {{hash=cb40b5f3fb316653ba81490a8cd0592d}{N{æ}sset}{N\bibinitperiod}{Erik}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{cb40b5f3fb316653ba81490a8cd0592d}
+      \strng{fullhash}{cb40b5f3fb316653ba81490a8cd0592d}
+      \field{sortinit}{N}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \field{extrayear}{1}
+      \field{labelyear}{2002}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0282-7581}
+      \field{journaltitle}{{Scandinavian Journal of Forest Research}}
+      \field{number}{5}
+      \field{title}{{Determination of mean tree height of forest stands by digital photogrammetry}}
+      \field{volume}{17}
+      \field{year}{2002}
+      \field{pages}{446\bibrangedash 459}
+      \range{pages}{14}
+    \endentry
+    \entry{Naesset.2002b}{article}{}
+      \name{author}{1}{}{%
+        {{hash=cb40b5f3fb316653ba81490a8cd0592d}{N{æ}sset}{N\bibinitperiod}{Erik}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{cb40b5f3fb316653ba81490a8cd0592d}
+      \strng{fullhash}{cb40b5f3fb316653ba81490a8cd0592d}
+      \field{sortinit}{N}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \field{extrayear}{2}
+      \field{labelyear}{2002}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00344257}
+      \field{journaltitle}{{Remote Sensing of Environment}}
+      \field{number}{1}
+      \field{title}{{Predicting forest stand characteristics with airborne scanning laser using a practical two-stage procedure and field data}}
+      \field{volume}{80}
+      \field{year}{2002}
+      \field{pages}{88\bibrangedash 99}
+      \range{pages}{12}
+    \endentry
+    \entry{Nsset.2004b}{article}{}
+      \name{author}{1}{}{%
+        {{hash=cb40b5f3fb316653ba81490a8cd0592d}{N{æ}sset}{N\bibinitperiod}{Erik}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{cb40b5f3fb316653ba81490a8cd0592d}
+      \strng{fullhash}{cb40b5f3fb316653ba81490a8cd0592d}
+      \field{sortinit}{N}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \field{labelyear}{2004}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0282-7581}
+      \field{journaltitle}{{Scandinavian Journal of Forest Research}}
+      \field{number}{2}
+      \field{title}{{Practical large-scale forest stand inventory using a small-footprint airborne scanning laser}}
+      \field{volume}{19}
+      \field{year}{2004}
+      \field{pages}{164\bibrangedash 179}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1080/02827580310019257
+      \endverb
+    \endentry
+    \entry{Nsset.2001}{article}{}
+      \name{author}{2}{}{%
+        {{hash=cb40b5f3fb316653ba81490a8cd0592d}{N{æ}sset}{N\bibinitperiod}{Erik}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=2f2b8ca330f92267c4eebbedc1a903c1}{Bjerknes}{B\bibinitperiod}{Kjell-Olav}{K\bibinithyphendelim O\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{cfce640e154939dafcef9e17791ea056}
+      \strng{fullhash}{cfce640e154939dafcef9e17791ea056}
+      \field{sortinit}{N}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \field{labelyear}{2001}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00344257}
+      \field{journaltitle}{{Remote Sensing of Environment}}
+      \field{number}{3}
+      \field{title}{{Estimating tree heights and number of stems in young forest stands using airborne laser scanner data}}
+      \field{volume}{78}
+      \field{year}{2001}
+      \field{pages}{328\bibrangedash 340}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/S0034-4257(01)00228-0
+      \endverb
+    \endentry
+    \entry{Nsset.2004c}{article}{}
+      \name{author}{10}{}{%
+        {{hash=cb40b5f3fb316653ba81490a8cd0592d}{N{æ}sset}{N\bibinitperiod}{Erik}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=c336ff2377feb101c23251314d8970fe}{Gobakken}{G\bibinitperiod}{Terje}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=b1b17f88cc5fb5fad9edcaf427b380ef}{Holmgren}{H\bibinitperiod}{Johan}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=57683142392e71414bda7ecb03f63fdc}{Hyyppä}{H\bibinitperiod}{Hannu}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=1862e7cb352e20d0412562af162e8ee8}{Hyyppä}{H\bibinitperiod}{Juha}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=a0c8e2542311764bccfe4c86fef69151}{Maltamo}{M\bibinitperiod}{Matti}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=a47c9e3feb9a932067acbfe517aadfca}{Nilsson}{N\bibinitperiod}{Mats}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=fe1de99475d680b4a6cc264d88e57772}{Olsson}{O\bibinitperiod}{Håkan}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=b5bcf16a10597df890b8e95169dd32da}{Persson}{P\bibinitperiod}{Åsa}{Å\bibinitperiod}{}{}{}{}}%
+        {{hash=482cfedf27959411971f57e8d31a1fd8}{Söderman}{S\bibinitperiod}{Ulf}{U\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{43c65c67652e0c944b5c96768d3ee41b}
+      \strng{fullhash}{35714754cd1c1852448e4c8944dd6ed7}
+      \field{sortinit}{N}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \field{labelyear}{2004}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0282-7581}
+      \field{journaltitle}{{Scandinavian Journal of Forest Research}}
+      \field{number}{6}
+      \field{title}{{Laser scanning of forest resources: the nordic experience}}
+      \field{volume}{19}
+      \field{year}{2004}
+      \field{pages}{482\bibrangedash 499}
+      \range{pages}{18}
+      \verb{doi}
+      \verb 10.1080/02827580410019553
+      \endverb
+    \endentry
+    \entry{Nelson.2013}{article}{}
+      \name{author}{1}{}{%
+        {{hash=d2cadb145bd2bdeb238ff5150373227b}{Nelson}{N\bibinitperiod}{Ross}{R\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{d2cadb145bd2bdeb238ff5150373227b}
+      \strng{fullhash}{d2cadb145bd2bdeb238ff5150373227b}
+      \field{sortinit}{N}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0703-8992}
+      \field{journaltitle}{{Canadian Journal of Remote Sensing}}
+      \field{number}{S1}
+      \field{title}{{How did we get here? An early history of forestry lidar}}
+      \field{volume}{39}
+      \field{year}{2013}
+      \field{pages}{S6\bibrangedash S17}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.5589/m13-011
+      \endverb
+    \endentry
+    \entry{Nelson.1984}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d2cadb145bd2bdeb238ff5150373227b}{Nelson}{N\bibinitperiod}{Ross}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=db2a184083cf4c3a01b3a871e3807337}{Krabill}{K\bibinitperiod}{William}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=6211a636fbb3fbcb2c34b6b3c75065c1}{Maclean}{M\bibinitperiod}{Gordon\bibnamedelima A.}{G\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e08782d5dfa739ab0be1719d70eabe3b}
+      \strng{fullhash}{15efcb679be9b1fae4aea854dbb75b35}
+      \field{sortinit}{N}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \field{labelyear}{1984}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00344257}
+      \field{journaltitle}{{Remote Sensing of Environment}}
+      \field{number}{3}
+      \field{title}{{Determining forest canopy characteristics using airborne laser data}}
+      \field{volume}{15}
+      \field{year}{1984}
+      \field{pages}{201\bibrangedash 212}
+      \range{pages}{12}
+    \endentry
+    \entry{Nelson.1988b}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d2cadb145bd2bdeb238ff5150373227b}{Nelson}{N\bibinitperiod}{Ross}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=db2a184083cf4c3a01b3a871e3807337}{Krabill}{K\bibinitperiod}{William}{W\bibinitperiod}{}{}{}{}}%
+        {{hash=c57089eb1b052de9727c81d3f46fc767}{Tonelli}{T\bibinitperiod}{John}{J\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e08782d5dfa739ab0be1719d70eabe3b}
+      \strng{fullhash}{c168e26a7e9637ccd9d2fbde6704b3cf}
+      \field{sortinit}{N}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \field{labelyear}{1988}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00344257}
+      \field{journaltitle}{{Remote Sensing of Environment}}
+      \field{number}{2}
+      \field{title}{{Estimating forest biomass and volume using airborne laser data}}
+      \field{volume}{24}
+      \field{year}{1988}
+      \field{pages}{247\bibrangedash 267}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1016/0034-4257(88)90028-4
+      \endverb
+    \endentry
+    \entry{Neufanger.2011}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=1f0643bc58fb9070d01b4469d4865612}{Neufanger}{N\bibinitperiod}{M.}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=93b22d31f8fb608849583492d20d8ee5}{{Bayerische\bibnamedelimb Staatsforsten}}{B\bibinitperiod}{}{}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Regensburg}%
+      }
+      \strng{namehash}{1f0643bc58fb9070d01b4469d4865612}
+      \strng{fullhash}{1f0643bc58fb9070d01b4469d4865612}
+      \field{sortinit}{N}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \field{labelyear}{2011}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Richtlinie für die mittel- und langfristige Forstbetriebsplanung in den Bayerischen Staatsforsten: Forsteinrichtungsrichtlinie -- FER 2011}}
+      \field{year}{2011}
+    \endentry
+    \entry{Neumann.1933}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=e68ac67a912eb55db50e5f5a9d1f222e}{Neumann}{N\bibinitperiod}{Christoph}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {Sächsische Technische Hochschule}%
+      }
+      \list{location}{1}{%
+        {Dresden}%
+      }
+      \strng{namehash}{e68ac67a912eb55db50e5f5a9d1f222e}
+      \strng{fullhash}{e68ac67a912eb55db50e5f5a9d1f222e}
+      \field{sortinit}{N}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \field{labelyear}{1933}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Beitrag zur Vorratsermittlung aus Luftmessbildern}}
+      \field{type}{{Dissertation}}
+      \field{year}{1933}
+    \endentry
+    \entry{Nilsson.1996}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a47c9e3feb9a932067acbfe517aadfca}{Nilsson}{N\bibinitperiod}{Mats}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{a47c9e3feb9a932067acbfe517aadfca}
+      \strng{fullhash}{a47c9e3feb9a932067acbfe517aadfca}
+      \field{sortinit}{N}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \field{labelyear}{1996}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00344257}
+      \field{journaltitle}{{Remote Sensing of Environment}}
+      \field{number}{1}
+      \field{title}{{Estimation of tree heights and stand volume using an airborne lidar system}}
+      \field{volume}{56}
+      \field{year}{1996}
+      \field{pages}{1\bibrangedash 7}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/0034-4257(95)00224-3
+      \endverb
+    \endentry
+    \entry{Nurminen.2013}{article}{}
+      \name{author}{5}{}{%
+        {{hash=760c352e7e1367a75c8f8f3c41bce5dc}{Nurminen}{N\bibinitperiod}{Kimmo}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=0bc943f80bde766e682e151e3a5f6fd6}{Karjalainen}{K\bibinitperiod}{Mika}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=83116a9cae1a3a077dbb81232cc33719}{Yu}{Y\bibinitperiod}{Xiaowei}{X\bibinitperiod}{}{}{}{}}%
+        {{hash=1862e7cb352e20d0412562af162e8ee8}{Hyyppä}{H\bibinitperiod}{Juha}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=40b57dcd203eeac017572f477c7e01d1}{Honkavaara}{H\bibinitperiod}{Eija}{E\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{32382abe3ea1b3ef01e9c0f3f9ad6ae2}
+      \strng{fullhash}{5e58c81c8892e46dbd8c2f141bc95517}
+      \field{sortinit}{N}
+      \field{sortinithash}{925374ca63e7594de7fafdb83e64d41d}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{09242716}
+      \field{journaltitle}{{ISPRS Journal of Photogrammetry and Remote Sensing}}
+      \field{title}{{Performance of dense digital surface models based on image matching in the estimation of plot-level forest variables}}
+      \field{volume}{83}
+      \field{year}{2013}
+      \field{pages}{104\bibrangedash 115}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.isprsjprs.2013.06.005
+      \endverb
+    \endentry
+    \entry{Paine.2012}{book}{}
+      \name{author}{2}{}{%
+        {{hash=ee93b478899182be88b5c64c7b3308d2}{Paine}{P\bibinitperiod}{David\bibnamedelima P.}{D\bibinitperiod\bibinitdelim P\bibinitperiod}{}{}{}{}}%
+        {{hash=7ac4d77bf6c7ae57d749b0e76716b9a7}{Kiser}{K\bibinitperiod}{James\bibnamedelima D.}{J\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Hoboken}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{6bde5f4f6fce739bbe79da4efa389be6}
+      \strng{fullhash}{6bde5f4f6fce739bbe79da4efa389be6}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3rd ed}
+      \field{isbn}{1118112644}
+      \field{title}{{Aerial photography and image interpretation}}
+      \field{year}{2012}
+    \endentry
+    \entry{Pitt.2014}{article}{}
+      \name{author}{3}{}{%
+        {{hash=5b994459351c0964ee6b89be6ed226fc}{Pitt}{P\bibinitperiod}{Doug\bibnamedelima G.}{D\bibinitperiod\bibinitdelim G\bibinitperiod}{}{}{}{}}%
+        {{hash=ea0baf1e9447c28737d45796a3a978c9}{Woods}{W\bibinitperiod}{Murray}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=9f5af28c163dfb0baea05e83fea8ffb7}{Penner}{P\bibinitperiod}{Margaret}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{798a4322d17360b717f5b67365f6f6ca}
+      \strng{fullhash}{9709c66538392e12c9ef2008f5218bbb}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelyear}{2014}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0703-8992}
+      \field{journaltitle}{{Canadian Journal of Remote Sensing}}
+      \field{number}{3}
+      \field{title}{{A Comparison of Point Clouds Derived from Stereo Imagery and Airborne Laser Scanning for the Area-Based Estimation of Forest Inventory Attributes in Boreal Ontario}}
+      \field{volume}{40}
+      \field{year}{2014}
+      \field{pages}{214\bibrangedash 232}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.1080/07038992.2014.958420
+      \endverb
+    \endentry
+    \entry{Polley.2010}{incollection}{}
+      \name{author}{4}{}{%
+        {{hash=6d04582055836688657ebdcd266b96e0}{Polley}{P\bibinitperiod}{Heino}{H\bibinitperiod}{}{}{}{}}%
+        {{hash=152fbda59230e95e73735af2941ffb4a}{Schmitz}{S\bibinitperiod}{Friedrich}{F\bibinitperiod}{}{}{}{}}%
+        {{hash=17da3825989ae5c86ee459a422bad95d}{Hennig}{H\bibinitperiod}{Petra}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=249257abdf9590fb93a757c8824cceef}{Kroiher}{K\bibinitperiod}{Franz}{F\bibinitperiod}{}{}{}{}}%
+      }
+      \name{editor}{4}{}{%
+        {{hash=3f327dd19a49ded5a3ce7944ead18699}{Tomppo}{T\bibinitperiod}{Erkki}{E\bibinitperiod}{}{}{}{}}%
+        {{hash=1d400df2142f5eed9bb91285929ea569}{Gschwantner}{G\bibinitperiod}{Thomas}{T\bibinitperiod}{}{}{}{}}%
+        {{hash=8db2f149d824ab2503c1e5c77819589e}{Lawrence}{L\bibinitperiod}{Mark}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=c5f3d90b9d3ddcfc49b7040be1a90d54}{McRoberts}{M\bibinitperiod}{Ronald\bibnamedelima E.}{R\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Dordrecht}%
+      }
+      \list{publisher}{1}{%
+        {Springer Netherlands}%
+      }
+      \strng{namehash}{2e2d41449462dbb8c6ffce21412dc576}
+      \strng{fullhash}{91eb3f67cf6c48818e974a365befa9e3}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelyear}{2010}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{{National Forest Inventories}}
+      \field{isbn}{9789048132324}
+      \field{title}{{Germany: Chapter 13}}
+      \field{year}{2010}
+      \field{pages}{223\bibrangedash 243}
+      \range{pages}{21}
+    \endentry
+    \entry{Schenk.1999}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c52190ca156cc998aa22370f624048a0}{Schenk}{S\bibinitperiod}{Toni}{T\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Laurelville, OH}%
+      }
+      \list{publisher}{1}{%
+        {TerraScience}%
+      }
+      \strng{namehash}{c52190ca156cc998aa22370f624048a0}
+      \strng{fullhash}{c52190ca156cc998aa22370f624048a0}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{1999}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Digital photogrammetry: Vol. I: Background, fundamentals, automatic orientation produceres}}
+      \field{year}{1999}
+    \endentry
+    \entry{Spurr.1948}{book}{}
+      \name{author}{1}{}{%
+        {{hash=ad34427a4fa212693a8ae00f5b889dcb}{Spurr}{S\bibinitperiod}{Stephen\bibnamedelima H.}{S\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {The Ronald Press Company}%
+      }
+      \strng{namehash}{ad34427a4fa212693a8ae00f5b889dcb}
+      \strng{fullhash}{ad34427a4fa212693a8ae00f5b889dcb}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{1948}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Aerial photographs in forestry: Deutsche Übersetzung}}
+      \field{year}{1948}
+    \endentry
+    \entry{Stepper.2016}{article}{}
+      \name{author}{4}{}{%
+        {{hash=397bdcdd0a6d497fd12207228b8fc549}{Stepper}{S\bibinitperiod}{Christoph}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=374cb28496615be6a5894df9fceb9893}{Straub}{S\bibinitperiod}{Christoph}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=d0d08757c2a8067bd13c1823381087ef}{Immitzer}{I\bibinitperiod}{Markus}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=4543ec077c6f439dda44c3131f061e6d}{Pretzsch}{P\bibinitperiod}{Hans}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6b24fde0e46db3f49ea3554b3d56f489}
+      \strng{fullhash}{61d3e28d213b2e1db36445792c857b70}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{submitted}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0282-7581}
+      \field{journaltitle}{{Scandinavian Journal of Forest Research}}
+      \field{title}{{Using canopy heights from digital aerial photogrammetry to enable spatial transfer of forest attribute models: a case study in central Europe}}
+      \field{year}{submitted}
+    \endentry
+    \entry{Stepper.2015}{article}{}
+      \name{author}{3}{}{%
+        {{hash=397bdcdd0a6d497fd12207228b8fc549}{Stepper}{S\bibinitperiod}{Christoph}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=374cb28496615be6a5894df9fceb9893}{Straub}{S\bibinitperiod}{Christoph}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=4543ec077c6f439dda44c3131f061e6d}{Pretzsch}{P\bibinitperiod}{Hans}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6b24fde0e46db3f49ea3554b3d56f489}
+      \strng{fullhash}{90d852a5c90ca4e0973da457bad494da}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{extrayear}{1}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0015-752X}
+      \field{journaltitle}{{Forestry}}
+      \field{number}{3}
+      \field{title}{{Assessing height changes in a highly structured forest using regularly acquired aerial image data}}
+      \field{volume}{88}
+      \field{year}{2015}
+      \field{pages}{304\bibrangedash 316}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1093/forestry/cpu050
+      \endverb
+    \endentry
+    \entry{Stepper.2015b}{article}{}
+      \name{author}{3}{}{%
+        {{hash=397bdcdd0a6d497fd12207228b8fc549}{Stepper}{S\bibinitperiod}{Christoph}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=374cb28496615be6a5894df9fceb9893}{Straub}{S\bibinitperiod}{Christoph}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=4543ec077c6f439dda44c3131f061e6d}{Pretzsch}{P\bibinitperiod}{Hans}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6b24fde0e46db3f49ea3554b3d56f489}
+      \strng{fullhash}{90d852a5c90ca4e0973da457bad494da}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{extrayear}{2}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0045-5067}
+      \field{journaltitle}{{Canadian Journal of Forest Research}}
+      \field{number}{1}
+      \field{title}{{Using semi-global matching point clouds to estimate growing stock at the plot and stand levels: application for a broadleaf-dominated forest in central Europe}}
+      \field{volume}{45}
+      \field{year}{2015}
+      \field{pages}{111\bibrangedash 123}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1139/cjfr-2014-0297
+      \endverb
+    \endentry
+    \entry{Strahler.1986}{article}{}
+      \name{author}{3}{}{%
+        {{hash=e45b04503b78f1650285d29fdc6e7847}{Strahler}{S\bibinitperiod}{Alan\bibnamedelima H.}{A\bibinitperiod\bibinitdelim H\bibinitperiod}{}{}{}{}}%
+        {{hash=b1b9d669d3e0c662021bbf31d2125b91}{Woodcock}{W\bibinitperiod}{Curtis\bibnamedelima E.}{C\bibinitperiod\bibinitdelim E\bibinitperiod}{}{}{}{}}%
+        {{hash=4adebc4e83103ec487be0a1328950b6c}{Smith}{S\bibinitperiod}{James\bibnamedelima A.}{J\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{867b20622db26895cf3bd59e0297f2bd}
+      \strng{fullhash}{36782a67ec9f93d52a0d71b63ea52331}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{1986}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{00344257}
+      \field{journaltitle}{{Remote Sensing of Environment}}
+      \field{number}{2}
+      \field{title}{{On the nature of models in remote sensing}}
+      \field{volume}{20}
+      \field{year}{1986}
+      \field{pages}{121\bibrangedash 139}
+      \range{pages}{19}
+    \endentry
+    \entry{Straub.2016}{article}{}
+      \name{author}{2}{}{%
+        {{hash=374cb28496615be6a5894df9fceb9893}{Straub}{S\bibinitperiod}{Christoph}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=397bdcdd0a6d497fd12207228b8fc549}{Stepper}{S\bibinitperiod}{Christoph}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{46f5af3a6ddf6427a1a322a74ff86e9b}
+      \strng{fullhash}{46f5af3a6ddf6427a1a322a74ff86e9b}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{2016}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{Photogrammetrie, Fernerkundung, Geoinformation (PFG)}}
+      \field{title}{{Using Digital Aerial Photogrammetry and the Random Forest Approach to Model Forest Inventory Attributes in Beech- and Spruce-dominated Central European Forests}}
+      \field{year}{2016}
+      \verb{doi}
+      \verb 10.1127/pfg/2016/0292
+      \endverb
+    \endentry
+    \entry{Straub.2013c}{article}{}
+      \name{author}{4}{}{%
+        {{hash=374cb28496615be6a5894df9fceb9893}{Straub}{S\bibinitperiod}{Christoph}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=397bdcdd0a6d497fd12207228b8fc549}{Stepper}{S\bibinitperiod}{Christoph}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=c8e519fdecf759dda17c1de315a76ccb}{Seitz}{S\bibinitperiod}{Rudolf}{R\bibinitperiod}{}{}{}{}}%
+        {{hash=79824d15accfa02b0f6c17723ce52682}{Waser}{W\bibinitperiod}{Lars\bibnamedelima T.}{L\bibinitperiod\bibinitdelim T\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{bb0da00fef228e08790f6490ea43e07e}
+      \strng{fullhash}{33d116d182a05b48d1c92be43b37a452}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0045-5067}
+      \field{journaltitle}{{Canadian Journal of Forest Research}}
+      \field{number}{8}
+      \field{title}{{Potential of UltraCamX stereo images for estimating timber volume and basal area at the plot level in mixed European forests}}
+      \field{volume}{43}
+      \field{year}{2013}
+      \field{pages}{731\bibrangedash 741}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1139/cjfr-2013-0125
+      \endverb
+    \endentry
+    \entry{vanLaar.2007}{book}{}
+      \name{author}{2}{}{%
+        {{hash=100f886c3f2cae516646cd9c82771e6d}{{van\bibnamedelimb Laar}}{v\bibinitperiod}{Anthonie}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=721011b6d29bd9f62f7405fdf23582f6}{Akça}{A\bibinitperiod}{A.}{A\bibinitperiod}{}{}{}{}}%
+      }
+      \list{location}{1}{%
+        {Dordrecht}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{0cb81d97d21c9cdfef830d79cb80f265}
+      \strng{fullhash}{0cb81d97d21c9cdfef830d79cb80f265}
+      \field{sortinit}{v}
+      \field{sortinithash}{d18f5ce25ce0b5ca7f924e3f6c04870e}
+      \field{labelyear}{2007}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{[2nd ed]}
+      \field{isbn}{9789048174973}
+      \field{series}{{Managing forest ecosystems}}
+      \field{title}{{Forest mensuration}}
+      \field{volume}{v. 13}
+      \field{year}{2007}
+    \endentry
+    \entry{Vastaranta.2013b}{article}{}
+      \name{author}{10}{}{%
+        {{hash=9dee100ba5cb6a1dd0485d71a6418abf}{Vastaranta}{V\bibinitperiod}{Mikko}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=c70f132082dbe06ab600267377046e36}{Wulder}{W\bibinitperiod}{Michael\bibnamedelima A.}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=92628dcbf23cd7e55e0b75bc5e53ee94}{White}{W\bibinitperiod}{Joanne\bibnamedelima C.}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=69f0c18428e606c69209daf188123bf5}{Pekkarinen}{P\bibinitperiod}{Anssi}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=442fa665bff45dcb237fa938315d7b57}{Tuominen}{T\bibinitperiod}{Sakari}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=e3afc3c31be1ef59ee7299626d6933fa}{Ginzler}{G\bibinitperiod}{Christian}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=c2fe29e73685da3d2ad5c781f252576a}{Kankare}{K\bibinitperiod}{Ville}{V\bibinitperiod}{}{}{}{}}%
+        {{hash=00f967dcfd0da1b8c2696a5a96937ab6}{Holopainen}{H\bibinitperiod}{Markus}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=1862e7cb352e20d0412562af162e8ee8}{Hyyppä}{H\bibinitperiod}{Juha}{J\bibinitperiod}{}{}{}{}}%
+        {{hash=57683142392e71414bda7ecb03f63fdc}{Hyyppä}{H\bibinitperiod}{Hannu}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e2b82207c088085d7a37852477ee71d5}
+      \strng{fullhash}{dac515302a452f6e77180fefda192031}
+      \field{sortinit}{V}
+      \field{sortinithash}{d18f5ce25ce0b5ca7f924e3f6c04870e}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0703-8992}
+      \field{journaltitle}{{Canadian Journal of Remote Sensing}}
+      \field{number}{5}
+      \field{title}{{Airborne laser scanning and digital stereo imagery measures of forest structure: comparative results and implications to forest mapping and inventory update}}
+      \field{volume}{39}
+      \field{year}{2013}
+      \field{pages}{382\bibrangedash 395}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.5589/m13-046
+      \endverb
+    \endentry
+    \entry{White.2016}{article}{}
+      \name{author}{1}{}{%
+        {{hash=92628dcbf23cd7e55e0b75bc5e53ee94}{White}{W\bibinitperiod}{Joanne\bibnamedelima C.}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{92628dcbf23cd7e55e0b75bc5e53ee94}
+      \strng{fullhash}{92628dcbf23cd7e55e0b75bc5e53ee94}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelyear}{2016}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{BC Forest Professional}}
+      \field{number}{March - April 2016}
+      \field{title}{{Characterizing Three-Dimensional Forest Structure From Digital Aerial Photogrammetry: A Competing or Complementary Technology to Airborne LiDAR?}}
+      \field{year}{2016}
+      \field{pages}{12\bibrangedash 13}
+      \range{pages}{2}
+    \endentry
+    \entry{White.2015}{article}{}
+      \name{author}{5}{}{%
+        {{hash=92628dcbf23cd7e55e0b75bc5e53ee94}{White}{W\bibinitperiod}{Joanne\bibnamedelima C.}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=397bdcdd0a6d497fd12207228b8fc549}{Stepper}{S\bibinitperiod}{Christoph}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=1a3a1a562298157201b3529108ca4001}{Tompalski}{T\bibinitperiod}{Piotr}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=bc86f91ad54f70249cfbc6332ec5ce6f}{Coops}{C\bibinitperiod}{Nicholas\bibnamedelima C.}{N\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=c70f132082dbe06ab600267377046e36}{Wulder}{W\bibinitperiod}{Michael\bibnamedelima A.}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{77adfb21c3df84b44a2bd6e5f82abea5}
+      \strng{fullhash}{9a56c86407afef38b9fbc08e7a89548e}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1999-4907}
+      \field{journaltitle}{{Forests}}
+      \field{number}{10}
+      \field{title}{{Comparing ALS and Image-Based Point Cloud Metrics and Modelled Forest Inventory Attributes in a Complex Coastal Forest Environment}}
+      \field{volume}{6}
+      \field{year}{2015}
+      \field{pages}{3704\bibrangedash 3732}
+      \range{pages}{29}
+      \verb{doi}
+      \verb 10.3390/f6103704
+      \endverb
+    \endentry
+    \entry{White.2013}{book}{}
+      \name{author}{8}{}{%
+        {{hash=92628dcbf23cd7e55e0b75bc5e53ee94}{White}{W\bibinitperiod}{Joanne\bibnamedelima C.}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=c70f132082dbe06ab600267377046e36}{Wulder}{W\bibinitperiod}{Michael\bibnamedelima A.}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=c62b19241d5549d4c172e5fa91d4d11e}{Varhola}{V\bibinitperiod}{Andrés}{A\bibinitperiod}{}{}{}{}}%
+        {{hash=9dee100ba5cb6a1dd0485d71a6418abf}{Vastaranta}{V\bibinitperiod}{Mikko}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=bc86f91ad54f70249cfbc6332ec5ce6f}{Coops}{C\bibinitperiod}{Nicholas\bibnamedelima C.}{N\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=baa5accabbc55efd2dd544440a2cf179}{Cook}{C\bibinitperiod}{Bruce\bibnamedelima D.}{B\bibinitperiod\bibinitdelim D\bibinitperiod}{}{}{}{}}%
+        {{hash=ce93d2e9bc5f512731c19b3c3cfc3a3e}{Pitt}{P\bibinitperiod}{Doug}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=ea0baf1e9447c28737d45796a3a978c9}{Woods}{W\bibinitperiod}{Murray}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \list{institution}{1}{%
+        {Natural Resources Canada, Canadian Forest Service, Canadian Wood Fibre Centre, Pacific Forestry Centre}%
+      }
+      \list{location}{1}{%
+        {Victoria, BC, Canada}%
+      }
+      \strng{namehash}{77adfb21c3df84b44a2bd6e5f82abea5}
+      \strng{fullhash}{a5cb09a435fcbef3553f97799449ac9c}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{extrayear}{1}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{isbn}{9781100223858}
+      \field{series}{{Information report}}
+      \field{title}{{A best practices guide for generating forest inventory attributes from airborne laser scanning data using the area-based approach}}
+      \field{volume}{FI-X-010}
+      \field{year}{2013}
+    \endentry
+    \entry{White.2013b}{article}{}
+      \name{author}{6}{}{%
+        {{hash=92628dcbf23cd7e55e0b75bc5e53ee94}{White}{W\bibinitperiod}{Joanne\bibnamedelima C.}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=c70f132082dbe06ab600267377046e36}{Wulder}{W\bibinitperiod}{Michael\bibnamedelima A.}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+        {{hash=9dee100ba5cb6a1dd0485d71a6418abf}{Vastaranta}{V\bibinitperiod}{Mikko}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=bc86f91ad54f70249cfbc6332ec5ce6f}{Coops}{C\bibinitperiod}{Nicholas\bibnamedelima C.}{N\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=ce93d2e9bc5f512731c19b3c3cfc3a3e}{Pitt}{P\bibinitperiod}{Doug}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=ea0baf1e9447c28737d45796a3a978c9}{Woods}{W\bibinitperiod}{Murray}{M\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{77adfb21c3df84b44a2bd6e5f82abea5}
+      \strng{fullhash}{b5d4a063f9945a87b6ed2b3646ee0e9b}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{extrayear}{2}
+      \field{labelyear}{2013}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1999-4907}
+      \field{journaltitle}{{Forests}}
+      \field{number}{3}
+      \field{title}{{The Utility of Image-Based Point Clouds for Forest Inventory: A Comparison with Airborne Laser Scanning}}
+      \field{volume}{4}
+      \field{year}{2013}
+      \field{pages}{518\bibrangedash 536}
+      \range{pages}{19}
+      \verb{doi}
+      \verb 10.3390/f4030518
+      \endverb
+    \endentry
+    \entry{Woods.2011}{article}{}
+      \name{author}{7}{}{%
+        {{hash=ea0baf1e9447c28737d45796a3a978c9}{Woods}{W\bibinitperiod}{Murray}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=ce93d2e9bc5f512731c19b3c3cfc3a3e}{Pitt}{P\bibinitperiod}{Doug}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=9f5af28c163dfb0baea05e83fea8ffb7}{Penner}{P\bibinitperiod}{Margaret}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=6bc9d7a87cbd50e7ad44b4dfb5e051c6}{Lim}{L\bibinitperiod}{Kevin}{K\bibinitperiod}{}{}{}{}}%
+        {{hash=696df699347006ad05aab980caeb89fc}{Nesbitt}{N\bibinitperiod}{Dave}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=fc02341708887c722784762985753322}{Etheridge}{E\bibinitperiod}{Dave}{D\bibinitperiod}{}{}{}{}}%
+        {{hash=01e9bb27813e4797569d6eaacd3876db}{Treitz}{T\bibinitperiod}{Paul}{P\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{e84a60d933340104eb923ad6585bab2f}
+      \strng{fullhash}{d62b6774c987162d9a24d10615eb8fe3}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelyear}{2011}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{The Forestry Chronicle}}
+      \field{number}{4}
+      \field{title}{{Operational implementation of a LiDAR inventory in Boreal Ontario}}
+      \field{volume}{87}
+      \field{year}{2011}
+      \field{pages}{512\bibrangedash 528}
+      \range{pages}{17}
+    \endentry
+  \endsortlist
+\endrefsection
+
+\refsection{1}
+  \sortlist{nyt}{nyt}
+    \entry{Immitzer.2016}{article}{}
+      \name{author}{5}{}{%
+        {{hash=d0d08757c2a8067bd13c1823381087ef}{Immitzer}{I\bibinitperiod}{Markus}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=397bdcdd0a6d497fd12207228b8fc549}{Stepper}{S\bibinitperiod}{Christoph}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=beb91874b5d6ce57d740309f9052d834}{Böck}{B\bibinitperiod}{Sebastian}{S\bibinitperiod}{}{}{}{}}%
+        {{hash=374cb28496615be6a5894df9fceb9893}{Straub}{S\bibinitperiod}{Christoph}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=eccf2e345140c9a8cf201c271eae3453}{Atzberger}{A\bibinitperiod}{Clement}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{164792cb2f8e89572b7300b97ea398e4}
+      \strng{fullhash}{80501e3f30920e92a3f542fcf0110b01}
+      \field{sortinit}{I}
+      \field{sortinithash}{25e99d37ba90f7c4fb20baf4e310faf3}
+      \field{labelyear}{2016}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0378-1127}
+      \field{journaltitle}{{Forest Ecology and Management}}
+      \field{pagination}{page}
+      \field{title}{{Use of WorldView-2 stereo imagery and National Forest Inventory data for wall-to-wall mapping of growing stock}}
+      \field{volume}{359}
+      \field{year}{2016}
+      \field{pages}{232\bibrangedash 246}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1016/j.foreco.2015.10.018
+      \endverb
+    \endentry
+    \entry{Stepper.2015}{article}{}
+      \name{author}{3}{}{%
+        {{hash=2bc4a024ebf7b4e539b366038bf53405}{Stepper}{S\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=24a407374716e0610b9abdc78d17aef2}{Straub}{S\bibinitperiod}{C.}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=1e48fd0a3161148d2f35bcaa33c89f18}{Pretzsch}{P\bibinitperiod}{H.}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{8e536d03939663e6e94d5eeccbc33fb4}
+      \strng{fullhash}{f18b59ccf9de79b8659e4de6181b2ca7}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{extrayear}{1}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0015-752X}
+      \field{journaltitle}{{Forestry}}
+      \field{number}{3}
+      \field{pagination}{page}
+      \field{title}{{Assessing height changes in a highly structured forest using regularly acquired aerial image data}}
+      \field{volume}{88}
+      \field{year}{2015}
+      \field{pages}{304\bibrangedash 316}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1093/forestry/cpu050
+      \endverb
+    \endentry
+    \entry{Stepper.2016}{article}{}
+      \name{author}{4}{}{%
+        {{hash=397bdcdd0a6d497fd12207228b8fc549}{Stepper}{S\bibinitperiod}{Christoph}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=374cb28496615be6a5894df9fceb9893}{Straub}{S\bibinitperiod}{Christoph}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=d0d08757c2a8067bd13c1823381087ef}{Immitzer}{I\bibinitperiod}{Markus}{M\bibinitperiod}{}{}{}{}}%
+        {{hash=4543ec077c6f439dda44c3131f061e6d}{Pretzsch}{P\bibinitperiod}{Hans}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6b24fde0e46db3f49ea3554b3d56f489}
+      \strng{fullhash}{61d3e28d213b2e1db36445792c857b70}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{submitted}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{Scandinavian Journal of Forest Research}}
+      \field{title}{{Using canopy heights from digital aerial photogrammetry to enable spatial transfer of forest attribute models: a case study in central Europe}}
+      \field{year}{submitted}
+    \endentry
+    \entry{Stepper.2015b}{article}{}
+      \name{author}{3}{}{%
+        {{hash=397bdcdd0a6d497fd12207228b8fc549}{Stepper}{S\bibinitperiod}{Christoph}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=374cb28496615be6a5894df9fceb9893}{Straub}{S\bibinitperiod}{Christoph}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=4543ec077c6f439dda44c3131f061e6d}{Pretzsch}{P\bibinitperiod}{Hans}{H\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{6b24fde0e46db3f49ea3554b3d56f489}
+      \strng{fullhash}{90d852a5c90ca4e0973da457bad494da}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{extrayear}{2}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0045-5067}
+      \field{journaltitle}{{Canadian Journal of Forest Research}}
+      \field{number}{1}
+      \field{pagination}{page}
+      \field{title}{{Using semi-global matching point clouds to estimate growing stock at the plot and stand levels: application for a broadleaf-dominated forest in central Europe}}
+      \field{volume}{45}
+      \field{year}{2015}
+      \field{pages}{111\bibrangedash 123}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1139/cjfr-2014-0297
+      \endverb
+    \endentry
+    \entry{Straub.2016}{article}{}
+      \name{author}{2}{}{%
+        {{hash=374cb28496615be6a5894df9fceb9893}{Straub}{S\bibinitperiod}{Christoph}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=397bdcdd0a6d497fd12207228b8fc549}{Stepper}{S\bibinitperiod}{Christoph}{C\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{46f5af3a6ddf6427a1a322a74ff86e9b}
+      \strng{fullhash}{46f5af3a6ddf6427a1a322a74ff86e9b}
+      \field{sortinit}{S}
+      \field{sortinithash}{fd1e7c5ab79596b13dbbb67f8d70fb5a}
+      \field{labelyear}{in press}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{{Photogrammetrie, Fernerkundung, Geoinformation (PFG)}}
+      \field{title}{{Using digital aerial photogrammetry and the Random Forests approach to model forest inventory attributes in beech- and spruce-dominated central European forests}}
+      \field{year}{in press}
+    \endentry
+    \entry{White.2015}{article}{}
+      \name{author}{5}{}{%
+        {{hash=92628dcbf23cd7e55e0b75bc5e53ee94}{White}{W\bibinitperiod}{Joanne\bibnamedelima C.}{J\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=397bdcdd0a6d497fd12207228b8fc549}{Stepper}{S\bibinitperiod}{Christoph}{C\bibinitperiod}{}{}{}{}}%
+        {{hash=1a3a1a562298157201b3529108ca4001}{Tompalski}{T\bibinitperiod}{Piotr}{P\bibinitperiod}{}{}{}{}}%
+        {{hash=bc86f91ad54f70249cfbc6332ec5ce6f}{Coops}{C\bibinitperiod}{Nicholas\bibnamedelima C.}{N\bibinitperiod\bibinitdelim C\bibinitperiod}{}{}{}{}}%
+        {{hash=c70f132082dbe06ab600267377046e36}{Wulder}{W\bibinitperiod}{Michael\bibnamedelima A.}{M\bibinitperiod\bibinitdelim A\bibinitperiod}{}{}{}{}}%
+      }
+      \strng{namehash}{77adfb21c3df84b44a2bd6e5f82abea5}
+      \strng{fullhash}{9a56c86407afef38b9fbc08e7a89548e}
+      \field{sortinit}{W}
+      \field{sortinithash}{99e3ba1b3f78bb6f073e7fa7ac11636b}
+      \field{labelyear}{2015}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1999-4907}
+      \field{journaltitle}{{Forests}}
+      \field{number}{10}
+      \field{pagination}{page}
+      \field{title}{{Comparing ALS and Image-Based Point Cloud Metrics and Modelled Forest Inventory Attributes in a Complex Coastal Forest Environment}}
+      \field{volume}{6}
+      \field{year}{2015}
+      \field{pages}{3704\bibrangedash 3732}
+      \range{pages}{29}
+      \verb{doi}
+      \verb 10.3390/f6103704
+      \endverb
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+

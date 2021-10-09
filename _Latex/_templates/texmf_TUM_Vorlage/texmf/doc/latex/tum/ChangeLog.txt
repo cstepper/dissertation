@@ -1,0 +1,24 @@
+-------------------- 30 July 2009: 2.0
+
+Fixed installation for MiKTeX.
+
+Fonts still need special treatment:
+new script tested on XP SP3 32bit, Vista 32bit, Vista 64bit
+
+Added arbeit.tex for scientific papers.
+
+Added new faculty TUM School of Education.
+
+Fixed some bugs in brief and fax:
+ - spacing in phone and fax numbers
+ - do not set hoffset or voffset, because they are reserved for the user
+ - remove latin1 umlauts to make it easier to use a different encoding
+
+-------------------- 23 July 2009
+Set up initial structure in svn.
+
+-------------------- Before that:
+
+The initially distributed version was tum-texmf 1.3 in August 2008. It
+contained the brief and fax classes, but had major flaws regarding
+installation.

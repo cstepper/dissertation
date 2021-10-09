@@ -1,0 +1,161 @@
+\begin{theindex}
+\goodbreak\textsc{Symbols}\par\nobreak\vskip\smallskipamount\nobreak
+ \item \small 3d, \hyperindexformat{\see{three-dimensional}}{5}
+
+  \indexspace
+\goodbreak\textsc{A}\par\nobreak\vskip\smallskipamount\nobreak
+ \item \small ABA, \hyperindexformat{\see{area-based approach}}{9}
+ \item \small accuracy, \hyperpage{24}
+ \item \small ACS, \hyperindexformat{\see{angle-count sampling}}{16}
+ \item \small active remote sensing, \hyperpage{2}
+ \item \small aerial frame camera, \hyperpage{4}
+ \item \small aerial photograph, \hyperpage{3}
+    \subitem digital aerial photograph, \hyperpage{17}
+ \item \small airborne laser scanning, \hyperpage{3}, \hyperpage{6}, 
+		\hyperpage{19}
+ \item \small airphoto, \hyperindexformat{\see{aerial photograph}}{3}
+ \item \small ALS, \hyperindexformat{\see {airborne laser scanning}}{3}
+ \item \small angle-count sampling, \hyperpage{16}
+ \item \small area-based approach, \hyperpage{9}, \hyperpage{18}
+ \item \small area-based aproach, \hyperpage{22}
+
+  \indexspace
+\goodbreak\textsc{B}\par\nobreak\vskip\smallskipamount\nobreak
+ \item \small bias, \hyperpage{24}
+ \item \small bootstrap, \hyperpage{24}
+
+  \indexspace
+\goodbreak\textsc{C}\par\nobreak\vskip\smallskipamount\nobreak
+ \item \small canopy cover, \hyperpage{7}
+ \item \small canopy height model, \hyperpage{25}
+ \item \small canopy profile, \hyperpage{5}
+ \item \small CHM, \hyperindexformat{\see{canopy height model}}{25}
+ \item \small colour-infrared, \hyperpage{5}
+ \item \small concentric sampling circles, \hyperpage{16, 17}
+ \item \small cross-sectional, \hyperpage{5}
+ \item \small cross-validation, \hyperpage{24}
+
+  \indexspace
+\goodbreak\textsc{D}\par\nobreak\vskip\smallskipamount\nobreak
+ \item \small digital surface model, \hyperpage{22}
+ \item \small digital terrain model, \hyperpage{19}
+ \item \small disparity, \hyperpage{21}
+ \item \small DSM, \hyperindexformat{\see{digital surface model}}{22}
+ \item \small DTM, \hyperindexformat{\see{digital terrain model}}{19}
+
+  \indexspace
+\goodbreak\textsc{E}\par\nobreak\vskip\smallskipamount\nobreak
+ \item \small earth observation satellites, \hyperpage{2}
+ \item \small epipolar images, \hyperpage{21}
+
+  \indexspace
+\goodbreak\textsc{F}\par\nobreak\vskip\smallskipamount\nobreak
+ \item \small forest inventory attribute, \hyperpage{16}, 
+		\hyperpage{22}, \hyperpage{24}
+
+  \indexspace
+\goodbreak\textsc{G}\par\nobreak\vskip\smallskipamount\nobreak
+ \item \small ground sampling distance, \hyperpage{18}
+
+  \indexspace
+\goodbreak\textsc{H}\par\nobreak\vskip\smallskipamount\nobreak
+ \item \small height normalization, \hyperpage{19}
+
+  \indexspace
+\goodbreak\textsc{I}\par\nobreak\vskip\smallskipamount\nobreak
+ \item \small image matching, \hyperpage{20, 21}, \hyperpage{25}
+    \subitem area-base matching, \hyperpage{20}
+    \subitem feature-based matching, \hyperpage{20}
+    \subitem pixelwise matching, \hyperpage{21}
+ \item \small image orientation, \hyperpage{20}
+    \subitem exterior orientation, \hyperpage{20}
+    \subitem interior orientation, \hyperpage{20}
+
+  \indexspace
+\goodbreak\textsc{L}\par\nobreak\vskip\smallskipamount\nobreak
+ \item \small leaf-on, \hyperpage{18}
+ \item \small LiDAR, 
+		\hyperindexformat{\see{airborne laser scanning}}{3}
+
+  \indexspace
+\goodbreak\textsc{M}\par\nobreak\vskip\smallskipamount\nobreak
+ \item \small matching cost, \hyperpage{21}
+ \item \small ME, \hyperindexformat{\see{mean error}}{24}
+ \item \small mean error, \hyperpage{24}
+ \item \small metric, \hyperpage{7}
+ \item \small multiple regression, \hyperpage{7}
+ \item \small multispectral, \hyperpage{18}, \hyperpage{21}
+
+  \indexspace
+\goodbreak\textsc{N}\par\nobreak\vskip\smallskipamount\nobreak
+ \item \small national forest inventory, \hyperpage{16}
+ \item \small NFI, 
+		\hyperindexformat{\see{national forest inventory}}{16}
+ \item \small normalized cross-correlation, \hyperpage{20}
+
+  \indexspace
+\goodbreak\textsc{O}\par\nobreak\vskip\smallskipamount\nobreak
+ \item \small optical satellite imagery, \hyperpage{18}
+ \item \small out-of-bag, \hyperpage{23, 24}
+ \item \small overlap
+    \subitem forward, \hyperpage{4}, \hyperpage{18}
+    \subitem side, \hyperpage{4}, \hyperpage{18}
+
+  \indexspace
+\goodbreak\textsc{P}\par\nobreak\vskip\smallskipamount\nobreak
+ \item \small PAI, 
+		\hyperindexformat{\see{periodic annual increment}}{17}, 
+		\hyperindexformat{\see{periodic annual increment}}{25}
+ \item \small panchromatic, \hyperpage{18}, \hyperpage{21}
+ \item \small passive remote sensing, \hyperpage{2}
+ \item \small percentile, \hyperpage{26}
+ \item \small periodic annual increment, \hyperpage{17}, \hyperpage{25}
+ \item \small photogrammetry, \hyperpage{20}
+ \item \small point cloud, \hyperpage{19}, \hyperpage{21}
+ \item \small point density, \hyperpage{19}
+ \item \small predictor variable, \hyperpage{7}, \hyperpage{22}
+
+  \indexspace
+\goodbreak\textsc{R}\par\nobreak\vskip\smallskipamount\nobreak
+ \item \small random forest, \hyperpage{24}
+ \item \small regression model, \hyperpage{7}, \hyperpage{22}
+    \subitem non-parametric, \hyperpage{22}
+      \subsubitem decision tree, \hyperpage{22}
+      \subsubitem random forest, \hyperpage{22}
+    \subitem parametric, \hyperpage{22}
+ \item \small resolution
+    \subitem radiometric, \hyperpage{18}
+    \subitem spatial, \hyperpage{19}
+ \item \small response variable, \hyperpage{22}
+ \item \small RMSE, 
+		\hyperindexformat{\see{root mean squared error}}{24}
+ \item \small root mean squared error, \hyperpage{24}
+
+  \indexspace
+\goodbreak\textsc{S}\par\nobreak\vskip\smallskipamount\nobreak
+ \item \small semi-global matching, \hyperpage{21}, \hyperpage{25}
+ \item \small SGM, \hyperindexformat{\see{semi-global matching}}{21}
+ \item \small state-owned, \hyperpage{15}
+ \item \small stereophotogrammetry, \hyperpage{5}
+ \item \small stratified random sampling, \hyperpage{17}
+ \item \small study area, \hyperpage{14}
+    \subitem Bavaria
+      \subsubitem Frankenwald, \hyperpage{15}
+      \subsubitem Spessart, \hyperpage{15}
+      \subsubitem Steigerwald, \hyperpage{15}
+      \subsubitem Traunstein, \hyperpage{17}
+    \subitem British Columbia
+      \subsubitem Northern Vancouver Island, \hyperpage{17}
+
+  \indexspace
+\goodbreak\textsc{T}\par\nobreak\vskip\smallskipamount\nobreak
+ \item \small test site, \hyperindexformat{\see{study area}}{14}
+ \item \small three-dimensional, \hyperpage{5}, \hyperpage{20, 21}
+ \item \small triangulation, \hyperpage{20}
+
+  \indexspace
+\goodbreak\textsc{W}\par\nobreak\vskip\smallskipamount\nobreak
+ \item \small wall-to-wall mapping, \hyperpage{18}
+ \item \small WorldView-2, \hyperpage{18}
+
+\end{theindex}

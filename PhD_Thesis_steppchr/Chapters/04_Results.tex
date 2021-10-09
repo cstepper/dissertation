@@ -1,0 +1,425 @@
+%************************************************
+\chapter{Results}
+\label{chp:Results}
+%************************************************
+
+The results of the conducted research studies were presented to scholars in different scientific papers 
+published in peer-reviewed journals (see list of publications on page~\pageref{chp:Publications}). 
+In the following, the main findings of the respective papers are summarized (section~\ref{sec:overallResults}).
+Afterwards, the results of each paper are given in detail and my personal contribution to each paper is highlighted (section~\ref{sec:detailedResults}). 
+
+\section{Overall results of the presented work}\label{sec:overallResults}
+
+In Table~\ref{tab:ResultsOverview}, a very general overview of the achieved results according to the overall aims of this work (see section~\ref{sec:Objectives}) is given.
+The first aim, \ie, the examination of image-based height measurements derived from stereo remote sensing data sets 
+for the description of forest canopy surfaces, was pursued in all studies. 
+
+  
+
+\begin{threeparttable}[t]
+	\myfloatalign
+	\caption[Overview of research aims and achieved results covered by the respective studies.]{Overview of research aims and achieved results covered by the respective studies.}
+		\label{tab:ResultsOverview}
+	\small
+	\begin{tabularx}{1\textwidth}{p{2.4cm}XXX}
+		\toprule
+		\tableheadline{Studies} & 
+		\spacedlowsmallcaps{Aim 1:} Are digital aerial images and \ac{DAP} suitable to compute image-based outputs to characterize forest canopy surfaces? & 
+		\spacedlowsmallcaps{Aim 2:} Can image-based point clouds or raster-based surface models be used to model forest inventory attributes?& 
+		\spacedlowsmallcaps{Aim 3:} Are \acp{CHM} derived from repeated airphoto acquisitons capable to assess canopy height changes over time?\\
+		\midrule
+		Stepper et al. \linebreak \emph{Can. J. For. Res.} (2015) & \centering\Large\checkmark & \centering\Large\checkmark &  \\ 
+		Straub\,\&\,Stepper \linebreak \emph{Photogramm. Fernerkund. Geoinf.} (in~press) &\centering\Large\checkmark & \centering\Large\checkmark &  \\ 
+		Stepper et al. \linebreak \emph{Scand. J. For. Res.} (submitted) & \centering\Large\checkmark & \centering\Large\checkmark &  \\ 
+		White et al. \linebreak \emph{Forests} (2015) & \centering\Large\checkmark & \centering\Large\checkmark &  \\ 
+		Immitzer et al. \linebreak \emph{Forest Ecol. Manag.} (2016) & \centering\Large\checkmark\small\tnote{a} & \centering\Large\checkmark\small\tnote{b} &  \\ 
+		Stepper et al. \linebreak \emph{Forestry} (2015) & \centering\Large\checkmark && \centering\Large\checkmark \tabularnewline
+		\bottomrule
+	\end{tabularx}
+		\begin{tablenotes}
+			\item[a] \footnotesize{Stereo satellite image data were used in this study for image matching and consecutive computation of canopy surface heights.}
+			\item[b] \footnotesize{In contrast to the other studies, \ac{ACS}-based field data from \ac{NFI} measurements were used for model training in this study.}
+		\end{tablenotes}	
+\end{threeparttable}
+
+
+
+	
+%\begin{savenotes}	
+%\begin{table}[htb]
+%	\myfloatalign
+%	\caption[Radii and DBH thresholds for the concentric sampling circles.]{Radii and \ac{DBH} thresholds for the concentric sampling circles
+%		assembling a ground plot in typical \ac{BaySF} management inventories.}
+%	\label{tab:OverallResults}
+%	\small
+%		\begin{tabularx}{1\textwidth}{p{2.3cm}XXX}
+%			\toprule
+%			\tableheadline{Studies} & 
+%			\spacedlowsmallcaps{Aim 1:} Are digital aerial images and \ac{DAP} suitable to compute image-based point clouds to characterize forest canopy surfaces? & 
+%			\spacedlowsmallcaps{Aim 2:} Can \ac{SGM} point clouds be used to model forest inventory attributes?& 
+%			\spacedlowsmallcaps{Aim 3:} Are \acp{CHM} derived from repeated airphoto acquisitons capable to assess canopy height changes?\\
+%			\midrule
+%			 Stepper et al. \linebreak \emph{Can. J. For. Res.} \linebreak (2015) & 
+%			 Dense image-based point clouds (avg. density $\>$ 11.6\,points$\cdot$m\textsuperscript{2}) were calculated by means of \ac{SGM}-- describing the canopy surface of a broadleaf-dominated forest. &
+%			 \ac{RF} prediction models for gross volume were established and validated at the plot and stand levels (minimum RMSEs of $30.92\%$ and $13.87\%$, resp.).  & 
+%			  \\
+% 			 Straub\,\&\,Stepper \linebreak \emph{Photogramm.\:Ferner-kund.\:Geoinf.} \linebreak (in press) &
+% 			 \acp{CHM} for a beech- and a spruce-domintated forest were computed from stereo airphotos using \ac{SGM}.& 
+% 			 Prediction models for a set of five different forest inventory attributes -- $N$, $G$, $QMD$, $V$, and $H_L$\footnote{$N$: stem number, $G$: basal area,
+% 			 	 $QMD$: quadratic mean diameter, $V$: volume, $H_L$: Lorey's mean height} -- were evaluated at the plot level;
+% 			  achieved RMSEs were high for $N$, intermediate for $G$, $QMD$, $V$, and low for $H_L$.&
+% 			  \\
+%  			 Stepper et al. \linebreak \emph{Scand. J. For. Res.} \linebreak (submitted) &
+%  			 Dense point clouds for a beech- and a spruce-domintated forest were computed from stereo airphotos using \ac{SGM}.& 
+%  			 Prediction models for $d_{100}$, $h_{100}$\footnote{ $d_{100}$: quadratic mean diameter of the 100 largest trees, 
+%  			 	$h_{100}$: basal area weighted height of the 100 largest trees}, and $V$ were trained for beech- and spruce-dominated forests;
+%  			 spatial model transfer to nearby forests revealed \dots 
+%  			 &
+%  			 \\
+%
+% 			  
+%%			 \\
+%%			 
+%%			 \adjustbox{valign=t}{\begin{tikzpicture}[baseline = 0]
+%%			 \draw[gray,very thin] (0,0) -- (1.3,-0.5) -- (2.6,0) -- (2.6,2) -- (1.3,1.5) -- (0,2) -- cycle;
+%%			 \node[align = center] at (1.3,0.75) {Stepper et al.\\ \emph{Can. J. For. Res.} \\ (2015)};
+%%			 \end{tikzpicture}} &
+%%			 a & b & c \\
+%%			 
+%%			  \adjustbox{valign=t}{\begin{tikzpicture}[baseline = 0]
+%%			 \filldraw[fill=black!10!white, draw=black] (0,0) -- (1.3,-0.5) -- (2.6,0) -- (2.6,2) -- (1.3,1.5) -- (0,2) -- cycle;
+%%			 \node[align = center] at (1.3,0.75) {Straub \& Stepper\\ \emph{PFG} \\ (in press)};
+%%			 \end{tikzpicture}} &
+%%			  a & b & c \\
+%			\bottomrule
+%		\end{tabularx}
+%\end{table}
+%\end{savenotes}
+%	
+%\begin{table}[htb]
+%	\myfloatalign
+%	\caption[Radii and DBH thresholds for the concentric sampling circles.]{Radii and \ac{DBH} thresholds for the concentric sampling circles
+%		assembling a ground plot in typical \ac{BaySF} management inventories.}
+%	\label{tab:OverallResults}
+%	\small
+%	\begin{tabularx}{.8\textwidth}{lXXX}
+%		\toprule
+%		\spacedlowsmallcaps{Study} & \spacedlowsmallcaps{DAP to characterize} \linebreak \footnotesize{[m]} & \spacedlowsmallcaps{model attri} \linebreak \footnotesize{[m\textsuperscript{2}]} & \spacedlowsmallcaps{asseisH} \linebreak \footnotesize{[cm]}  \\ 
+%		\midrule
+%		\begin{tikzpicture}
+%		\draw[step=0.5cm,gray,very thin] (0,0) grid (4,4)
+%		\draw (0,) -- (1,0.5) -- (2,1) -- (2,3) -- (1,2.5) -- (0,3) -- cycle; 
+%		\node at (1,1) {\emph{Stepper et al 2915 sfaksöjgkljdfögjöadkjöf}};
+%		\end{tikzpicture}
+%		 & 2.82 & 25 & $<$\,12  \\ 
+%		\emph{2} &  6.31 &  125 & 12--29.9 \\
+%		\emph{3}  & 12.62 &  500 & $\geq$\,30  \\ 
+%		\bottomrule
+%	\end{tabularx}
+%\end{table}
+%	
+%	
+%	\begin{tikzpicture}
+%	\draw (0,0) -- (1,-0.5) -- (2,0) -- (2,2) -- (1,1.5) -- (0,2) -- cycle; 
+%	\node at (1,1) {\emph{Stepper et al 2915 sfaksöjgkljdfögjöadkjöf}};
+%	
+%	[
+%	decoration={shape backgrounds,shape size=.5cm,shape=signal},
+%	signal from=west, signal to=east,
+%	paint/.style={decorate, draw=#1!50!black, fill=#1!50}]
+%	\draw [help lines] grid (3,2);
+%	\draw [paint=red, decoration={shape sep=.5cm}]
+%	(0,2) -- (3,2);
+%	\draw [paint=green, decoration={shape sep={1cm, between centers}}]
+%	(0,1) -- (3,1);
+%	\draw [paint=blue, decoration={shape sep={1cm, between borders}}]
+%	(0,0) -- (3,0);
+%	\end{tikzpicture}
+
+\section[Detailed description of the results]{Detailed description of the results per article}\label{sec:detailedResults}
+
+\subsection[Stepper et al. \emph{Can. J. For. Res.} (2015)]
+		{Stepper et al.\; 
+		\emph{Can. J. For. Res.}
+		(2015) }
+\label{sec:pub.CanJForRes2015}
+
+\begin{description}
+	\item[Title] Using semi-global matching point clouds to estimate growing stock at the plot and stand levels: 
+		application for a broadleaf-dominated forest in central Europe
+	\item[Authors] \emph{Christoph Stepper}, Christoph Straub, and Hans Pretzsch
+	\item[Journal] Canadian Journal of Forest Research (Publisher: National Research Council Canada, NRC Research Press, \textsc{issn}: 0045-5067, 
+		Journal Impact Factor, \emph{2014}: 1.683)
+	\item[Abstract] Dense image-based point clouds have great potential to accurately assess forest attributes such as growing stock. The
+		objective of this study was to combine height and spectral information obtained from UltraCamXp stereo images to model the
+		growing stock in a highly structured broadleaf-dominated forest ($77.5\,km^2$) in southern Germany. We used semi-global matching
+		(SGM) to generate a dense point cloud and subtracted elevation values obtained from airborne laser scanner (ALS) data to
+		compute canopy height. Sixty-seven explanatory variables were derived from the point cloud and an orthoimage for use in the
+		model. Two different approaches --- the linear regression model (lm) and the random forests model (rf) --- were tested. We
+		investigated the impact that varying amounts of training data had on model performance. Plot data from a previously acquired
+		set of 1875 inventory plots was systematically eliminated to form three progressively less dense subsets of 937, 461, and
+		226 inventory plots. Model evaluation at the plot level (size: $500\,m^2$) yielded relative root mean squared errors (RMSEs)
+		ranging from $31.27\%$ to $35.61\%$ for lm and from $30.92\%$ to $36.02\%$ for rf. At the stand level (mean stand size: $32\,ha$), RMSEs
+		from $14.76\%$ to $15.73\%$ for lm and from $13.87\%$ to $14.99\%$ for rf were achieved. Therefore, similar results were obtained 
+		from both modeling approaches. The reduction in the number of inventory plots did not considerably affect the precision. 
+		Our findings underline the potential for aerial stereo imagery in combination with ALS-based terrain heights to support forest inventory and management.
+	\item[Contribution] \myName and Christoph Straub developed the con-cept for the study and \myName designed the experimental setting. 
+		Hans Pretzsch gave helpful comments on the study structure and the relevance of the research.
+	
+		\myName processed all ground inventory and remote sensing data. He performed the photogrammetric working steps
+		to gain the image-based canopy height information and the orthoimage for the complete test site. 
+		In this study, we scrutinized both height and spectral variables as predictor variables for modelling gross volume.
+		\myName computed the point-cloud variables and Christoph Straub computed the variables extracted from the gridded \ac{CHM} and the orthoimage.
+		\myName performed the area-based modelling workflow testing both regression approaches and applied the models for wall-to-wall mapping. 
+		He conducted the model evaluation at the stand level and compiled all results. \myName and Christoph Straub interpreted the model outcomes
+		and formulated the findings of this research.
+	
+		\myName prepared the manuscript including all figures and tables in close collaboration with Christoph Straub.
+		Hans Pretzsch gave valuable advice for the interpretation of the results, for the discussion of the findings 
+		and the composition of the manuscript. All authors contributed to the critical revisions of the article.
+	
+\end{description}
+
+
+\subsection[Straub \& Stepper \emph{Photogramm.\:Fernerkund.\:Geoinf.} (in press)]
+{Straub \& Stepper\; 
+	\emph{Photogramm.\:Fernerkund.\:Geoinf.}
+	(in press) }
+\label{sec:pub.PFG2016}
+
+\begin{description}
+	\item[Title] Using digital aerial photogrammetry and the Random Forest approach to model forest inventory attributes
+		in beech- and spruce-dominated central European forests
+	\item[Authors] Christoph Straub and \emph{Christoph Stepper}
+	\item[Journal] Photogrammetrie--Fernerkundung--Geoinformation, \emph{PFG} \\ (Publisher: Schweizerbart Science Publishers, \textsc{issn}: 1432-8364, 
+		Journal Impact Factor, \emph{2014}: 0.733)
+	\item[Abstract] Surface models generated using dense image matching of aerial photographs have 
+		potential for use in the area-based prediction of forest inventory attributes. Few studies have
+		examined the impact of forest type on the performance of models used to predict forest attributes.
+		Moreover, with regard to central European forests, little is known about how accurately attributes
+		other than volume and basal area can be estimated using image-based surface models. Thus, in this
+		study, we assessed the accuracy of such estimates for five forest attributes --- stem density $N$, basal
+		area $G$, quadratic mean diameter $QMD$, volume $V$, and Lorey’s mean height $H_L$ --- for a beech- and a
+		spruce-dominated forest in northern Bavaria, Germany. These estimates were made using a workflow
+		combining data from aerial photographs obtained from regularly scheduled surveys and field plot
+		measurements from periodic forest inventories conducted in Bavarian state forests. Semi-Global
+		Matching was used to derive surface models from the air photos which were normalized with terrain
+		models from airborne laserscanning to derive canopy height models (CHM). Based on the CHM
+		values at the respective field plots, a set of 14 predictor variables characterizing the height distribution
+		was computed. For the prediction, individual Random Forests models were trained and cross
+		validated separately for both test sites. With respect to relative RMSEs, i.e. divided by the observation
+		means, most distinct differences were observed for the prediction of $QMD$ with a slightly higher level
+		of accuracy for the spruce-dominated forest. Best results were achieved for $H_L$, while poorest model
+		performances were obtained for $N$. The relative plot-level RMSEs for $N$, $G$, $QMD$, $V$, and $H_L$ were:
+		$70.3\%$, $36.0\%$, $32.3\%$, $37.8\%$, and $12.4\%$ for the beech-dominated and $74.9\%$, $35.2\%$, $24.9\%$, $33.3\%$,
+		and $12.4\%$ for the spruce-dominated forest. Thus, with the exception of $QMD$, forest type did not
+		considerably influence the model accuracies.
+	\item[Contribution] The idea for this comparative analysis of models for a set of forest inventory attributes 
+		across two different forest types was developed together by both authors. 
+	
+		For the implementation, 
+		\myName processed the aerial imagery and the \ac{SGM} data to generate the \acp{CHM} for both test sites.
+		He also computed the not readily available forest inventory attributes based on the tree list data
+		from the ground plot measurements. Christoph Straub calculated the set of predictor variables
+		from the \ac{CHM} height values at the inventory plots and built the predictive \ac{RF} models 
+		based on existing code developed in \textcite{Stepper.2015b}. 
+	
+		Both authors conducted the analysis and interpretation of the modelling results and wrote the manuscript.
+\end{description}
+
+
+
+\subsection[Stepper et al. \emph{Scand. J. For. Res.} (submitted)]
+{Stepper et al.\; 
+	\emph{Scand. J. For. Res.}
+	(submitted) }
+\label{sec:pub.ScandJForRes2016}
+
+\begin{description}
+	\item[Title] Using canopy heights from digital aerial photogrammetry to enable spatial transfer of forest attribute models: 
+		a case study in central Europe
+	\item[Authors] \emph{Christoph Stepper}, Christoph Straub, Markus Immitzer, and Hans Pretzsch
+	\item[Journal] Scandinavian Journal of Forest Research (Publisher: Nordic Forest Research Cooperation Committee, 
+		Taylor \& Francis, \textsc{issn}: 0282-7581, Journal Impact Factor, \emph{2014}: 1.537)
+	\item[Abstract] This paper describes a workflow utilizing detailed canopy height information derived from digital airphotos
+		 combined with ground inventory information gathered in state-owned forests and regression modelling techniques to 
+		 quantify forest growing stocks in private woodlands, for which little information is generally available. 
+		 Random forest models were trained to predict three different variables at the plot level: 
+		 quadratic mean diameter of the 100 largest trees ($d_{100}$), basal area weighted mean height of the 100 largest trees ($h_{100}$), and gross volume (($V$). 
+		 Two separate models were created -- one for a spruce- and one for a beech-dominated test site. 
+		 We examined the spatial portability of the models by using them to predict the aforementioned variables at actual inventory plots in nearby forests, 
+		 in which simultaneous ground sampling took place. When data from the full set of available plots were used for training, 
+		 the predictions for $d_{100}$, $h_{100}$, and $V$ achieved out-of-bag model accuracies (scaled RMSEs) 
+		 of $15.1\%$, $10.1\%$ and $35.3\%$ for the spruce- and $15.9\%$, $9.7\%$,
+		 and $32.1\%$ for the beech-dominated forest, respectively.
+		 The corresponding independent RMSEs for the nearby forests were $15.2\%$, $10.5\%$, and $33.6\%$ for the spruce-
+		 and $15.5\%$, $8.9\%$, and $33.7\%$ for the beech-dominated test site, respectively.
+%		Ground based inventory information on the publicly owned forests is most often
+%		available from periodic field measurements. However, little information is
+%		available for the private woodlands, particularly for small parcels of land as
+%		common in e.g. Bavaria, Germany, and other European regions. Addressing the
+%		lack of inventory data, this paper describes the development of a workflow
+%		providing the missing link by means of remotely sensed auxiliary data. Canopy
+%		metrics from image-based point clouds generated using semi-global matching of
+%		air photos were combined with ground plot data, and random forests models were
+%		trained to predict three different variables: quadratic mean diameter of the 100
+%		largest trees ($d_{100}$), basal area weighted mean height of the 100 largest trees ($h_{100}$),
+%		and gross volume ($V$) at the plot level. We trained separate models for a spruce
+%		and a beech-dominated test site, with the aim to cover the most common forest
+%		environments in Bavaria. We examined the spatial portability by predicting the
+%		variables at inventory plots in close-by forests, in which simultaneous ground
+%		sampling took place. Using the full set of available plots for training, the plot
+%		level predictions for $d_{100}$, $h_{100}$, and $V$ achieved out-of-bag model accuracies
+%		(scaled RMSEs) of $15.1\%$, $10.1\%$ and $35.3\%$ for the spruce- and $15.9\%$, $9.7\%$,
+%		and $32.1\%$ for the beech-dominated forest, respectively. Corresponding
+%		independent RMSEs for the predictions to the neighbouring forests were $15.2\%$,
+%		$10.5\%$, and $33.6\%$ for the spruce- and $15.5\%$, $8.9\%$, and $33.7\%$ for the beech
+%		dominated test site, respectively. Our findings indicate that area-covering canopy
+%		heights obtained from digital aerial photogrammetry can be a viable source of
+%		auxiliary data to unveil information for privately owned forests. Providing
+%		spatially explicit, high-resolution inventory information on private estates
+%		facilitates sustainable planning for the forest owners and helps the state forest
+%		authority to formulate focused policies.
+	\item[Contribution] \myName developed the idea for this study and the other authors contributed to the experimental layout. 
+	
+		\myName conducted the analysis. He processed the image data and prepared the inventory data for subsequent use in modelling. 
+		He wrote the \textsf{R} code following previous work \parencite{Stepper.2015b} and performed all modelling steps. 
+		\myName discussed the results, considering helpful comments of the co-authors. 
+		
+		\myName wrote the manuscript and compiled the figures, with comments and advise from all other authors. 
+	
+\end{description}
+
+
+
+\subsection[White et al. \emph{Forests} (2015)]
+{White et al.\; 
+	\emph{Forests}
+	(2015) }
+\label{sec:pub.Forests2015}
+
+\begin{description}
+	\item[Title] Comparing ALS and image-based point cloud metrics and modelled forest inventory attributes
+		in a complex coastal forest environment
+	\item[Authors] Joanne C. White, \emph{Christoph Stepper}, Piotr Tompalski, Nicholas C. Coops, and Michael A. Wulder
+	\item[Journal] Forests (Publisher: MDPI, \textsc{issn}: 1999-4907, Journal Impact Factor, \emph{2014}: 1.449)
+	\item[Abstract] Digital aerial photogrammetry (DAP) is emerging as an alternate data source to
+		airborne laser scanning (ALS) data for three-dimensional characterization of forest
+		structure. In this study we compare point cloud metrics and plot-level model estimates
+		derived from ALS data and an image-based point cloud generated using semi-global
+		matching (SGM) for a complex, coastal forest in western Canada. Plot-level estimates of
+		Lorey’s mean height ($H$), basal area ($G$), and gross volume ($V$) were modelled using an
+		area-based approach. Metrics and model outcomes were evaluated across a series of strata
+		defined by slope and canopy cover, as well as by image acquisition date. We found
+		statistically significant differences between ALS and SGM metrics for all strata for five of
+		the eight metrics we used for model development. We also found that the similarity
+		between metrics from the two data sources generally increased with increasing canopy
+		cover, particularly for upper canopy metrics, whereas trends across slope classes were less
+		consistent. Model outcomes from ALS and SGM were comparable. We found the greatest 
+		difference in model outcomes was for~$H$ ($\Delta RMSE = 5.04\%$). By comparison, $\Delta RMSE$ was 
+		$2.33\%$ for $G$ and $3.63\%$ for $V$. We did not discern any corresponding trends in model
+		outcomes across slope and canopy cover strata, or associated with different image
+		acquisition dates.
+	\item[Contribution] This research was made possible by international collaboration of the \myInstitute,
+		the Department of Forest Research at University of British Columbia, and the Canadian Forest Service. 
+		The contact was made by \myName and Joanne White. 
+	
+		Joanne White and \myName set up the design of the study, with conceptual advice of all other authors. 
+		Joanne White coordinated the progress of the study, including the contacts with external partners for acquisition 
+		of all field inventory and remote sensing data used. \myName conducted all photogrammetry work for obtaining image-based
+		canopy height information. Piotr Tompalski and \myName processed the \ac{ALS} and \ac{DAP} data for further analysis.
+		Joanne White lead investigations on the comparison of point cloud metrics across a series of strata defined by slope and canopy cover
+		and Christoph Stepper was responsible for modelling and analysing plot level predictions for Lorey’s mean height,
+		basal area, and gross volume. 
+		All authors discussed the results and implications and contributed in formulating the findings of that research.
+	
+		Joanne White and \myName wrote the manuscript. \myName, Joanne White, and Piotr Tompalski prepared the figures and assembled the artwork.
+		All authors commented on the manuscript and participated in revising the manuscript.
+	
+\end{description}
+
+
+
+\subsection[Immitzer et al. \emph{Forest Ecol. Manag.} (2016)]
+{Immitzer et al.\; 
+	\emph{Forest Ecol. Manag.}
+	(2016) }
+\label{sec:pub.Forecol2016}
+
+\begin{description}
+	\item[Title] Use of WorldView-2 stereo imagery and National Forest Inventory data for wall-to-wall mapping of growing stock
+	\item[Authors] Markus Immitzer, \emph{Christoph Stepper}, Sebastian Böck, Christoph Straub, and Clement Atzberger
+	\item[Journal] Forest Ecology and Management (Publisher: Elsevier, \textsc{issn}: 0378-1127, 
+		Journal Impact Factor, \emph{2014}: 2.660)
+	\item[Abstract] Angle-count sampling (ACS) is an established method in forest mensuration and is implemented in different
+		National Forest Inventories (NFI). However, due to the lack of fixed reference areas of the inventory
+		plots, these ACS-based field data are seldom used as training data for wall-to-wall mapping applications
+		at forest enterprise level. In this paper, we demonstrate an approach to overcome this shortcoming. For a
+		study area in northern Bavaria, Germany, we used ACS-based NFI data for model training to generate
+		wall-to-wall maps of growing stock for broadleaf, conifer and mixed forest stands. Both spectral and
+		height information from the very high resolution World\mbox{View-2} (WV2) satellite were used as auxiliary
+		information and the non-parametric Random Forests (RF) algorithm was chosen as modeling approach.
+		The growing stock predictions were validated using out-of-bag (OOB) samples and further verified at
+		the plot and stand level using additional data. For validation, field plots from a Management Forest
+		Inventory (MFI) and delineated forest stands were used. Compared to stand-level aggregations based
+		on field plots from the MFI, our approach explained $56\%$ of the variability in the growing stock ($R^2$) with
+		a relative RMSE of $15\%$ at the stand level ($n = 252$). As expected, the scatter was higher at the plot-level
+		($n = 3973$). Nonetheless, the models still achieved acceptable performance measures ($R^2 = 0.44$;
+		$RMSE = 34\%$).
+	\item[Contribution] Markus Immitzer and Clement Atzberger initiated the study. Markus Immitzer, Clement Atzberger, 
+		and \myName contributed to the initial experimental design and developed the new approach for using \ac{ACS}-based \ac{NFI} plot data
+		as training data for wall-to-wall mapping applications. The novelty of the approach, \ie, the simultaneous use of
+		multiple concentric circles around the \ac{NFI} plot centres for calculating explanatory variables based on remote sensing information,
+		was developed by Markus Immitzer and Clement Atzberger in close collaboration with \myName.
+		
+		Markus Immitzer processed the remote sensing data and conducted the main parts of the analysis,
+		including programming of the procedures and compiling the results in tables and figures.
+		Christoph Straub computed the vegetation mask based on the \ac{WV2} data.
+		\myName prepared the inventory data used for model training (\acs{NFI}) and model evaluation (\acs{MFI}). 
+		Sebastian Böck helped in programming and analysis.
+	
+		Markus Immitzer and \myName prepared all figures and flowcharts for the article and 
+		wrote the initial draft of the manuscript together with Clement Atzberger.
+		All authors contributed to the final manuscript and participated in revising the manuscript for publication.
+	
+\end{description}
+
+
+\subsection[Stepper et al. \emph{Forestry} (2015)]
+{Stepper et al.\; 
+	\emph{Forestry}
+	(2015) }
+\label{sec:pub.Forestry2015}
+
+\begin{description}
+	\item[Title] Assessing height changes in a highly structured forest using regularly acquired aerial image data 
+	\item[Authors] \emph{Christoph Stepper}, Christoph Straub, and Hans Pretzsch
+	\item[Journal] Forestry (Publisher: Institute of Chartered Foresters, Oxford University Press, \textsc{issn}: 0015-752X, 
+		Journal Impact Factor, \emph{2014}: 2.093)
+	\item[Abstract] In this paper,we demonstrate the effectiveness of digital stereo images and canopy height models (CHMs) derived
+		from them for forest height change assessment. Top heights were derived for 199 terrestrial inventory plots from
+		forest inventories conducted in 2008 and 2013 in a forest near Traunstein, Germany. Semi-Global Matching was
+		applied to two sets of aerial stereo images, acquired in 2009 and 2012, respectively, to compute CHMs. Subsequently,
+		several height percentiles were calculated from the areas in the CHMs that lay within the inventory plot
+		locations. The maximum CHM value ($h_{max}$) had the highest correlation with the field-based canopy top heights
+		and was selected for use in all further analysis. Periodic annual increments (PAIs) of forest height were calculated
+		from both the remote sensing and the field data at the inventory plot locations. Scatterplots of the PAIs over top
+		height revealed similar patterns in the results derived from the two data sets. The inventory plots were assigned to
+		three height classes representing various forest successional stages --- \emph{youth}, \emph{full vigour} and \emph{old age}.
+		The PAI distributions
+		within the three height classes were significantly different from one another. Our findings suggest
+		that CHMs derived from repeat aerial image surveys can be a viable tool to measure canopy heights and to
+		assess forest height changes over time, even for a highly structured, mixed forest in central Europe.
+	\item[Contribution] All authors contributed to the idea of the work and jointly conceived the experiment.
+	
+		\myName made all data ready for analysis, including the processing of the aerial imagery and the ground inventory data. 
+		He conducted the main parts of the statistical analysis, \ie, selecting the appropriate methods,
+		writing the code and carrying out the experiments. \myName and Christoph Straub examined and discussed the results.
+		Hans Pretzsch contributed in result interpretation and in placing the findings into a broader context in the forest research discipline.
+	
+		\myName wrote the first draft of the manuscript and prepared all figures and artwork, 
+		with valuable contributions of Christoph Straub. 
+		Hans Pretzsch added helpful edits to the manuscript and gave advice on the content. 
+	
+\end{description}
+
